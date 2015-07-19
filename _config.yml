@@ -4,7 +4,7 @@ email: zurisadai.pabon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just my little corner where start tuning my innate literacy talent ;)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tsur.github.io/blog" # the base hostname & protocol for your site
+url: "http://tsur.github.io/blog/" # the base hostname & protocol for your site
 twitter_username: tsurshaddai
 github_username:  tsur
 
