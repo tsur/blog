@@ -11,13 +11,13 @@ Currently tabs UI elements are somehow overladen, you can find plenty of plugins
 
 Let's start defining some HTML mark up. Just a simple <p> element:
 
-```html
+{% highlight html %}
 <p class="tab">Trapezoid tab</p>
-```
+{% endhighlight %}
 
 and let's add now some CSS transformation to it:
 
-```css
+{% highlight css %}
 p {
   	
 	display: inline-block;
@@ -36,7 +36,7 @@ p.tab::before {
   	position: absolute;
 	top: 0; right: 0; bottom: 0; left: 0;
 }
-```
+{% endhighlight %}
 
 Check it out at [codepen](http://codepen.io/Tsur/pen/rVrEde)
 

@@ -7,6 +7,6 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://tsur.github.io" # the base hostname & protocol for your site
 twitter_username: tsurshaddai
 github_username:  tsur
-
+highlighter: pygments
 # Build settings
 markdown: kramdown
