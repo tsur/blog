@@ -18,7 +18,7 @@ Let's start defining some HTML mark up. Just a simple <p> element:
 and let's add now some CSS transformation to it:
 
 {% highlight css %}
-p {
+.tab {
   	
 	display: inline-block;
 	padding: 1em;
@@ -27,7 +27,7 @@ p {
   	position: relative;
 }
 
-p.tab::before {
+.tab::before {
 	content: '';
 	z-index: -1;
 	background: black;
