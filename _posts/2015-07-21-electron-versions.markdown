@@ -9,7 +9,7 @@ Electron is a framework for developing cross-platform desktop applications with 
 
 From a developer point of view, most of time Chromium is just Chrome as both of them use the same Blink layout/rendering engine and the same V8 Javascript engine, just that Chrome is a wrapper over Chromium providing extra [features](https://code.google.com/p/chromium/wiki/ChromiumBrowserVsGoogleChrome) as Flash, PDF or MP3 support. Basically Chromium is the name of the project which becomes the base for future Chrome versions whereas Chrome itself is the name of the product. For that reason, Chromium docs encourage developers about not using never the word Chromium as constants or variable names. 
 
-To check both the Electron application, the Chromium and the io.js version, open the dev tools and run "process.versions" on the console. To open the dev tools, just call BrowserWindow.openDevTools([options]).
+To check both the Electron application, the Chromium and the io.js version, open the dev tools and run "process.versions" on the console. To open the dev tools, just call openDevTools([options]) method in your BrowserWindow application instance.
 
 {% highlight javascript %}
 process.versions.chrome // prints the Chromium version
@@ -19,7 +19,7 @@ process.versions.node // prints the io.js version
 
 To check what version of Chromium is your Electron based application using, you can also run "window.navigator.userAgent" in the console.
 
-This is straight forward, specially if you has installed it via npm. Simply by taking a look at your package.json file or issuing the command below would make the trick.
+You may also check the Electron version by simply taking a look at your package.json file or issuing the command below if installed globally.
 
 {% highlight bash %}
 npm list --depth=1 --global | grep electron
