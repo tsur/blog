@@ -3,6 +3,7 @@ layout: post
 title:  "Como es arriba, es abajo"
 date:   2015-07-19 18:26:25
 categories: metaphysics
+published: false
 ---
 
 Existe una fórmula básica. Y esta fórmula básica se repite constantemente, una y otra vez a sí misma, probando miles de combinaciones diferentes pero siempre conversando su esencia, el patrón primigenio original. Esto significa que todo se repite, tanto si nos dirigimos hacia lo infinitamente grande, como si nos dirigimos hacia lo infinitamente pequeño. 

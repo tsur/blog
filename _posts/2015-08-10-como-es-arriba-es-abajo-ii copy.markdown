@@ -3,6 +3,7 @@ layout: post
 title:  "Como es arriba, es abajo (II)"
 date:   2015-08-10 18:26:25
 categories: metaphysics
+published: false
 ---
 
 Todos nosotros encontramos nuestro tabernáculo dentro de un cuerpo, un cuerpo de enormes proporciones. Vivimos, nos movemos y existimos por y para el cuerpo. Este cuerpo es nuestro universo, de modo que realmente todo lo que nosotros vemos como planetas, sistemas, galaxias, constelaciones y demás, son células, órganos, tejidos y aparatos del cuerpo universal.
