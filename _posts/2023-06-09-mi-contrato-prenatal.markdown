@@ -2,7 +2,7 @@
 layout: post
 title:  "Mi Contrato Prenatal (Provisional) - Spanish"
 date:   2023-06-09 13:25:25
-categories: light-novel
+categories: lightnovel
 ---
 
 Todos los derechos reservados. © 2023. Zuri Pabón. "Mi Contrato Prenatal" es una marca registrada de Zuri Pabón. Queda prohibida la reproducción, distribución o transmisión total o parcial de esta publicación, incluyendo la fotocopia, grabación u otros métodos electrónicos o mecánicos, sin el permiso previo por escrito del autor, excepto en el caso de breves citas incluidas en reseñas críticas y ciertos otros usos no comerciales permitidos por la ley de derechos de autor.
