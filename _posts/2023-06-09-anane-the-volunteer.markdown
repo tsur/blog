@@ -3,7 +3,6 @@ layout: post
 title:  "Anane the volunteer. Embracing the Unknown (Provisional En)"
 date:   2023-06-09 13:25:25
 categories: light-novel
-published: true
 ---
 
 All rights reserved. © 2023. Zuri Pabón. "Anane the volunteer" is a registered trademark of Zuri Pabón
