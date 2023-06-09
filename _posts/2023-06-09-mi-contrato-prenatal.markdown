@@ -282,17 +282,15 @@ No entendía bien qué estaba pasando ni donde estaba. Llamé buscando la respue
 
 Me sentía extrañamente ligero, de repente sentía que podía hacer cosas que solo podía hacer en mis días de mozo joven, cuando las energías me sobraban. Sentía que podía correr a una velocidad de vértigo si lo deseaba y no cansarme. 
 
-No entendía nada. Me levanté y fui en busca de alguien. Parecía estar en un hospital. Toda la decoración del lugar era igual. Comencé a alzar mi voz: "Hola, hay alguien? algún médico por favor?", pero nadie contestaba. 
+No entendía nada. Me levanté y fui en busca de alguien. Por la decoracion del lugar, parecía estar en un hospital, pero me sentia fenomenal y mi cuerpo se veía perfecto, diría que incluso más joven y atlético. Comencé a alzar mi voz: "Hola, hay alguien? algún médico por favor?", pero nadie contestaba. 
 
 Mi voz parecía tener una agilidad y potencia sobrenatural, solo pensaba lo que iba a decir e inmediatamente mis cuerdas vocales ya habían emitido el sonido. Sería algún efecto de la medicina o anestesia? Solo podía pensar que tal vez me había ocurrido algo mientras dormía, tal vez me había caído y golpeado o tal vez había sufrido algo peor. ¿Un infarto? pero era muy joven aún.
 
-Estaba a punto de salir de la habitación donde me encontraba cuando alguien me llamó por mi nombre. 
+Estaba a punto de salir de la habitación donde me encontraba cuando alguien me llamó por mi nombre. Sentí un gran alivio al escuchar esa voz. Por fin podría hablar con alguien.
 
-Sentí un gran alivio al escuchar esa voz. Por fin podría hablar con alguien.
+"Disculpe, podría ayudarme por favor. Estoy algo desorientado. No sé qué ha ocurrido. Dónde me encuentro?"
 
-"Disculpe, podría ayudarme por favor. Estoy algo desorientado. No sé qué ha pasado"
-
-Rita: "Claro, para eso estoy aquí. Bueno, en realidad estoy aquí porque ahora me toca a mí." 
+Rita: "Claro, no se preocupe, para eso estoy aquí. Bueno, realmente estoy aquí porque ahora me toca a mí." 
 
 "Perdona no entiendo, ¿Cómo dices?"
 
@@ -304,13 +302,15 @@ Rita: " A ver…, ven aquí. No tienes nada de qué preocuparte. Solo siéntate 
 
 " Qué avellanas…? "
 
-Inmediatamente recordé la cena en el bar con Edriel y Valeria. Recordé volver a casa después de la cena y comerme varias avellanas antes de ir a dormir
+Inmediatamente recordé la cena en el bar con Edriel y Valeria. Recordé volver a casa después de la cena y comerme unas cuantas avellanas antes de ir a dormir
 
-Pero también recordé más cosas. De repente en mi mente aparecieron imágenes nítidas y un documento con algo escrito como borroso. 
+Pero también recordé más cosas. De repente en mi mente iban surgiendo imágenes como borrosas y en ellas un documento con algo escrito que no podia entender del todo. 
 
 "Después de comer las avellanas, proseguirá al sueño y durante el mismo el presente contrato de intercambio prenatal será efectivo"
 
-No sólo podía ver esas imágenes, también me llegaba mucha más información, como si estuviera comprimida en un fichero zip y mi mente estuviera descomprimiendo todo de poco a poco. De repente empecé a creer entender lo que estaba ocurriendo. Sería posible aquello?, estaba muerto?
+No sólo podía ver esas imágenes, también me llegaba mucha más información, como si estuviera comprimida en un fichero zip y mi mente estuviera descomprimiendo todo de poco a poco. 
+
+De repente empecé entender mejor lo que estaba ocurriendo, como si las piezas del puzzle se hubieran conectado. Sería posible aquello?, acaso había muerto?
 
 "Pero si yo nunca he sido alérgico a las avellanas!!!"
 
@@ -326,7 +326,7 @@ Rita: "Ni falta que hace, ahora ya lo puedo hacer yo por ti"
 
 En ese momento miré cómo de forma instintiva hacia el lado opuesto del que había caminado para contemplar, estupefacto, mi propio cuerpo como inerte, sobre una camilla y repleto de máquinas de hospital conectadas al mismo
 
-"Hostia puta. JODER. El contrato!"
+"Ostia puta. JODER. El contrato!"
 
 Rita: "Jaja, ¿ya empiezas a recordarlo?"
 
@@ -336,12 +336,12 @@ No sólo sentía como mis recuerdos iban llegando de a poco, más al hacerlos es
 
 "Jaja pues vaya faena Rita. Te va a costar un cojón usar mi cuerpo de nuevo. Estoy hecho mierda"
 
-Rita: "No hay problema alguno. Veo que aún no recuerdas mucho. Tenemos un año por delante en tu recuperación. Estarás ese año en coma y luego medio más para rehabilitación,  que naturalmente usaré para ir habituandome de poco a poco a mi nuevo yo. Aún así, tendré por delante más de 45 años de vida, tal y como acordamos en nuestro contrato prenatal"
+Rita: "No hay problema alguno. Veo que aún no recuerdas mucho. Tenemos un año por delante en tu recuperación. Estarás medio año en coma y luego dos más para rehabilitación, que naturalmente usaré para ir habituandome de poco a poco a mi nuevo yo. Aún así, tendré por delante más de 45 años de vida, tal y como acordamos en el contrato de vida prenatal"
 
 Y entonces, como si ya fuera imposible que nada más peculiar ocurriese esa noche, de repente sentí junto a mi lado una extraña fuerza, como la que sientes cuando intentas unir dos imanes, una energía que me resultaba conocida, como familiar.
 
 Rita pareció sentirlo también. Y por momentos se la notaba algo inquieta. Ambos sabíamos que algo estaba a punto de pasar, pero no el qué. Y en ese preciso instante, junto a nosotros, surgió una silueta y tras la silueta, allí estaba ella …
 
-Valeria: “Hola querido esposo. Te echaba mucho de menos.”
+Valeria: “Hola amor, por fin despiertas. Te echaba mucho de menos”
 
 Continuará...
