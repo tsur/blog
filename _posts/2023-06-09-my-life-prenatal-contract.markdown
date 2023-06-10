@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My prenatal life contract (Draft - Sample) - English"
+title:  "My Prenatal Life Contract (Draft - Sample) - English"
 date:   2023-06-09 13:25:25
 categories: lightnovel
 ---
