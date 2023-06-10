@@ -1,0 +1,354 @@
+---
+layout: post
+title:  "My life prenatal contract (Draft - Sample) - English"
+date:   2023-06-09 13:25:25
+categories: lightnovel
+---
+
+All rights reserved. © 2023. Zuri Pabón. "My Prenatal Contract" is a registered trademark of Zuri Pabón. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+A young man, deeply in love with Valeria, his office mate, dies without being able to confess his love to her. Upon his death, he discovers all the details of his short life on Earth in the prenatal life contract. And now, someone else is legally in possession of his body. After offering something in exchange, he is allowed to extend his contract for a little longer, but he must accept certain conditions. Determined to finish what he started, he accepts the conditions!
+
+### Chapter 1.
+
+I dared not ask her. I was incapable of doing so, too direct. Have you ever dreamed that you try to scream with all your might but no words come out? That's how I felt in the face of such a question. A question that my lips, during my whole life of being a single, would never have allowed to escape, and this would not be the exception. A question incompatible with my way of being and thinking.
+
+To make matters worse, she was my coworker. I had just entered the company, and although I had not been able to confirm it yet, it seemed to me as if she held some important role within it.
+
+Later on, it would pain me to know that I was right because it made everything much more difficult for me, and at the same time, it made me feel terribly guilty. How could I be so selfish to feel this way when I should be happy for her? That made me feel even less worthy of even speaking to her.
+
+If there was something I was proud of, it was undoubtedly the only gift I had managed to develop, that I was genuinely happy to have: patience. It had become my best friend and companion. It was always there to guide me when I was about to fail or to console me when I felt defeated.
+
+If this was some kind of isekai story, and the patience ability were a meta, I would undoubtedly be among the most broken and overpowered characters in the game.
+
+And yet, there she was every day, so close and yet so far from me. She sat very close to me in the office, within the reach of a gentle and slight movement of my eyes. Challenging my unwavering patience. Like a hurricane that slowly grows and ends up sweeping everything in its path. Like a hurricane that ravaged my emotions and that I could only watch from a distance, helpless and unarmed. She was the kind of woman with whom I had always wanted to start a family and share a lifetime of dedication and mutual commitment.
+
+I never longed for that fleeting and cheesy kind of relationship where you only find a glycemic overload of romance, and then there's nothing left. But I was also aware that romance, in a balanced proportion, also occupied an important space within a healthy and lasting relationship. And that question that fluttered in my thoughts was anything but romantic...
+
+I had met many other women, but she was different. Wow, how many times had I thought that same thing, deceiving myself as I whispered those words so sweetly in my own ears to make it always feel like the first time?
+
+Perhaps that was the way my self-love, my own complacency, could encourage me, that maybe, once again, it could be the definitive opportunity I had been waiting for so long.
+
+But still, I couldn't help but feel that she was special and different. That strange feeling as if I had known her for a long time, as if she were a part of me. Who knows, maybe we have already met in another life, and that feeling of being by her side felt familiar to me.
+
+How much I wished to know if she felt the same. Because in my heart, I wanted to know much more if she shared that same strange, peaceful, and heartwarming familiar feeling than knowing if I had the slightest chance of being liked by her.
+
+It wasn't just her appearance. She looked like a goddess in my eyes. The kind of woman who doesn't need makeup because she always look beautiful. A face and body with perfect symmetry. Flawless, without blemish. Beautiful and stunning far beyond my reach. But I suppose those were the illusory effects of dopamine in my brain, more interested in its own genetic survival against ruthless natural selection and its damn fixation on the unattractive.
+
+Still, what I liked most about her was not her physical appearance. I was completely convinced that even if her beauty were to fade, I would still love her the same. Without a doubt, what I liked most about her was her personality. By her side, I felt alive, full of energy. How different I felt when I was with her. Her gestures, her way of speaking, her smile, her kind and affectionate nature, her intelligence, her empathy towards others, her sweetness and closeness.
+
+Everything about her seemed beautiful and lovely. If before she appeared like a hurricane that ravaged everything in its path, now she resembled a sun that illuminated and warmed my inner world. The sun that shines after the storm. A storm that was coming unexpectedly towards me.
+
+[Notification] You have a new message from Valeria: Woala!, Uuwuuu!, How are you!!?? It's been a while since we last talked! P.S. Where are you from...
+
+For a few seconds, I felt like I was in an interdimensional void. And then, as if in an uncontrollable dream, everything started spinning slowly in my mind, as if a black hole was swallowing me, once again...
+
+Have you ever felt something and its opposite intertwined at the same time? That notification was the closest thing to that, like a gift that I eagerly awaited but also didn't want to ever open.
+
+I may have tried to open that notification more than 30 times. It was so delightful, like when you buy something online and you're excited for the unboxing, but you want to wait a little longer. I wanted to keep it for more time. Plus, if I was taking longer to reply, it would seem more natural. It was like finishing eating a sweet candy and then immediately having to brush your teeth. I didn't want to brush my teeth just yet! Let me enjoy it a little while longer!
+
+...
+
+[Open notification]
+
+### Chapter 2.
+
+Could this be real? Was this happening to me? I needed a few extra milliseconds to process everything that was happening here. The girl I was childishly in love with was messaging me privately. For seconds, my heart raced and my emotions soared in a festival of joy and happiness.
+
+Valeria: "Woala! Uuwuuu! How are you?? It's been a while since we last talked! P.S. Are you from a town in the south? I have a friend there :), Pedro. Maybe you know him by any chance? We studied together at university."
+
+In addition, she knew where I was from. Although in any other context, this wouldn't have meant anything, here it did matter. How could she know where I was from? The hometown district where I was born was very small and unknown, and I didn't recall ever mentioning this to her. I usually mentioned the capital, not the district.
+
+So she must have taken an interest in this information on her own. Maybe she asked other coworkers about me to obtain this information. Or perhaps she simply had access to my personal data. After all, she was a manager within the company, and she was also present during the selection process. So she could easily have access to this information.
+
+To make matters worse, she was also asking about Pedro. My emotions quickly allowed a new but unexpected guest, melancholy, to enter and access my private room. In my small hometown, there were plenty of Juans, Miguels, and Antonios, but not many Pedros. I only knew two people called Pedro in my hometown, one of whom was significantly older than me and must be well into his years. Pedro was same age as me and Valeria was too same age. Without a doubt, it had to be the same Pedro I knew from childhood.
+
+The face of Pedro that I remembered was that of a 14 or 15-year-old teenager. We had been close friends since childhood, and our relationship remained strong during adolescence. But after high school, we went to live in different places, and our friendship gradually faded until we ultimately lost touch.
+
+I had no idea what his adult face would look like now. So many years had passed since the last time we saw each other in person.
+
+I cherished many good memories and moments with Pedro. But almost instantly, those not-so-pleasant memories resurfaced in my mind, and the melancholy turned into sadness and unease. It wasn't the first time; it seemed like I had experienced this before, several times, in fact.
+
+Pedro and I shared many things in common. We went to the same school, had the same friends, lived in the same area, were in the same class, shared an interest in video games, and both had very similar grades. So we both knew what it was like to be the least popular and most studious in class. And this bonded us, so we became good friends.
+
+However, there were many other things that set us apart, and one of them, the one that left the strongest impression in my mind and memories, was his rapid rise in popularity with girls during adolescence. Unlike me, Pedro was physically popular among girls and never lacked suitors.
+
+I still felt the heavy burden of remembering how Pedro enthusiastically recounted his first time with a girl at only 14 years old, while I, in my late thirties, still held onto my virginity. I felt pathetic just thinking about it. I felt bad about myself even for allowing those thoughts to hurt me. If I couldn't respect and love myself, perhaps I didn't deserve to feel the love of others, which made me, if it's still possible, even more pathetic.
+
+Everything seemed to fit and make sense. It couldn't be for real. Not again. It was like a cruel nightmare returning from the past. As if from those memories, dozens of long, thin hands emerged with the sole purpose of grabbing me and dragging me from that dreamlike paradise of hope back to harsh reality. Was this some kind of punishment for sins committed in some past life? How could something like this be happening? Why?
+
+And now it seemed like I was reliving that again. So within a few seconds, my fears began to surface. Could it be that they were intimate friends? She knew his name and where he was born, and they studied together, but this didn't have to mean anything more. It didn't make sense to dwell on this...
+
+But what if she was in love with him? Or worse, what if she's still in love with him and sees an opportunity to reconnect with Pedro through me? It wouldn't be far-fetched to think of that as a possibility, after all, the purpose of her message was to find out if I knew Pedro.
+
+The weight of these emotions was too heavy; I didn't want to go down that path. I never hated or harbored ill feelings towards Pedro. I didn't even feel envy. Well, maybe a little. Still, my esteem and affection for him were far above any other negative sentiment, and I always wanted to hold onto the best moments we shared.
+
+Besides, Pedro was never to blame for anything, and I was old enough to stop acting like a child and victimizing myself so much over my own tragedies.
+
+In a burst of bravery and sincerity, I decided on resigning and wishing them both the best, regardless of the feelings she might harbor in her heart for him.
+
+There were too many unknowns I hadn't resolved yet. After all, I didn't really know anything about her, and getting entangled in this trap would have been my ultimate defeat. Shortly afterward, I learned that they were university classmates, and Pedro had become a father. However, she didn't have children. My relationship with her grew, and now I felt one step closer to being able to call Valeria a friend. At least, we shared something in common. Pedro.
+
+If this were an isekai, I would have shed blood defeating my first final boss, but after that, I had gone several levels up all at once.
+
+### Chapter 3.
+
+Despite being coworkers, our level of communication and interaction was practically non-existent and sporadic.
+
+We were in different departments, and our roles were also different. I worked in the engineering department, and she worked in management. In a little over a year, we had only spoken on a couple of occasions.
+
+I still remember those small moments when we crossed paths and exchanged a few polite words and greetings. Part of me felt afraid and tried to avoid those moments. Perhaps it was my emotional shield trying to spare me from the pain of rejection, not wanting to face a reality I didn't want to see or experience that could harm me. I had experienced it before, and my psyche didn't want to go through it again.
+
+However, at the same time, I couldn't help but wonder how I could dodge what I truly desired with all my heart, as if it were a symphony in which you simultaneously hear intertwined sad and joyful notes.
+
+Although sometimes my fears and insecurities prevailed, other times it was my courage and boldness. If this were an Isekai, my workplace would be that dark dungeon filled with enemies where I would have balanced my defensive and offensive skills, although I would have died and been reborn many times to achieve it.
+
+In those fleeting encounters, we always said goodbye with a hug. In those moments, everything stopped, I felt at home, safe, calm, at peace, and with a strong conviction that we were intimate friends, old souls who had known each other in past times.
+
+But she always hugged everyone, so doubts plagued me, and I tried to convince myself again that perhaps it was just a way to keep the hope of spending more time together alive. At that point, I didn't even desire her love anymore; her mere company was enough for me, her friendship alone was sufficient. But I wasn't even sure if what we had could be called friendship. Friends are supposed to know each other well, spend time together, enjoy and suffer together.
+
+They are honest and sincere, and despite everything, they are always willing to forgive each other. But none of that was real for me. Although, as with good food, the trust and mutual affection of a solid friendship need time, so once again, I decided to rely on my precious and overrated patience.
+
+How unreal and fantastical were my thoughts. How disappointed I felt with myself. At 31 years old, I already felt like I was twice that age, or even worse, without energy, without strength, weak, and without enthusiasm for life, for anything, or almost anything.
+
+Sometimes I thought that a large part of my life had been a series of mistakes. Don't get me wrong, I also had good and happy moments, but as it often happens, they were few and overshadowed by the bad memories.
+
+The worst part was being aware of it. Knowing how I had wasted so many good opportunities that would never come back, at least not in the same way.
+
+The painful memory of having had several chances to amass millions. I told myself that it wasn't just for me, but for how many people in my family I could have helped.
+
+I could have pursued what truly passionate me. They say money doesn't bring happiness, but when you don't have the opportunity to experience it for yourself, it seems like a vague excuse from poor people.
+
+On several occasions, I could have bought digital currency at a ridiculously low price that years later would be worth more than gold. What would have become of my life if I had seized those opportunities?
+
+I've never been ambitious, I've never desired to live in opulence, but I would have liked to have a simple and happy life in a good home to live in, a little house close to nature, with a small garden to grow a vegetable patch, space for a chicken coop, some fruit trees, and a swimming pool alongside a small workshop.
+
+I didn't ask for much, but even after years of effort to study, earn two university degrees, and work for years, that still remained far beyond my financial reach.
+
+Once, another opportunity presented itself to me. It was the closest thing to my dream house. But even then, I couldn't seize it. It still seemed too expensive to me. Thoughts of scarcity and poverty, that seemed to be my mentality.
+
+I didn't have the money, I didn't want to get into debt, I told myself, even though my parents had some of the money and they offered their financial support in case I couldn't handle the debts, but still, I said no.
+
+What was I thinking back then? The worst part is that I don't remember, and I can't comprehend how I let that opportunity slip away. How much immaturity and stupidity filled my thoughts. A few years later, that same property would cost more than double, and the memory of having lost all those opportunities weighed heavily on my soul.
+
+Shortly after, I invested my meager savings in an apartment near the town where I only lived for a few months. The reason was simple. I bought that apartment thinking of my parents. They used to argue frequently. That apartment could be their escape to disconnect. I thought it would help both my mother and my father, but the reality was quite the opposite.
+
+After all, I didn't like living in that place, I felt lonely and disconnected from life. So, I still lived with my parents in the house where I grew up. At least there, I wasn't alone, and we had a small backyard from which we could see the sky and feel the air brushing against our faces.
+
+And yet, I should be grateful, many didn't even have that. But it made me feel even worse to have an unoccupied place that I didn't use, while many families wished to enjoy it. I had become the typical human being who neither lives nor lets others live. Maybe I was too pessimistic, or maybe I was too weak. I no longer cared about anything, I had long lost the hope of having a wife and children.
+
+I had lost the hope of dedicating myself professionally to what I truly loved. I had lost the hope of enjoying the home I had always longed for. What a waste of life. That's what I felt. I observed the children who had grown up with me, most of them without university degrees, without prestigious jobs, but they were independent, with their own families and children.
+
+Where had I gone so wrong? Now, I had also lost another one of my hopes in life. Nevertheless, it wasn't all sadness and pain; deep in my heart, I could also feel peace and tranquility.
+
+If this were an Isekai, I would now be thinking about how to return to my original world.
+
+### Chapter 4
+
+[Notification] You have a new message from Valeria: uwu! How are you!? Would you mind helping me with...
+
+[Open notification]
+
+"Hi Valeria!!, how are you? Yes, yes... sure! Let me check it for you" [Typing...]
+
+"Hi Valeria!!, how are you? Yes, yes... sure! Let m..." [Typing...]
+
+"Hi Valeria!!, how are y..."  [Typing...]
+
+"Hi Valeria!!, how are things going? Sorry, I just saw your message now" [Typing...]
+
+[Disconnect from network]
+
+"Hi Valeria!!, how are things going? Sorry, I just saw your message now, I was finishing something" [Trying to connect...]
+
+"Hi Valeria!!, how are things going? Yes, of course! Sorry for the delay, I was finishing something" [Trying to connect...]
+
+"Hi Valeria! Yepp sure! I'll send it to you right now"
+
+[Connect to network]
+
+[Send message]
+
+[Valeria is typing.]
+
+Valeria: "I'm in the meeting room, come over if you want, and we can go through it together :), okay?"
+
+"I better send it to you, I have the estimates now" [Typing...]
+
+"I have to leave a little earlier today, but I'll send it to you through chat" [Typing...]
+
+"Okay, I'm on my way now!"
+
+[Send message]
+
+When I arrived at the meeting room, I found her sitting next to Alberto. I didn't know if I was happy or not to see him there. I truly wished to be alone with her, but I also didn't want to force an uncomfortable situation for either of us, specially for me to be honest.
+
+Alberto worked in another team, we were both in the same department within the company. He was a very intelligent and pleasant guy, with an impeccable reputation within the company, although somewhat chubby and without any particular attractiveness. 
+
+He seemed to me as a good guy, like the dad who, even without desire or energy, after a hard day of work, was always willing to drive far to pick up his son from extracurricular classes and make an effort to enjoy his company for the little time left in the day.
+
+We often coincided for lunch or in some of the usual joint team meetings to collaborate on specific tasks. I got along very well with him and held him in high regard. I quickly assumed he was there for the same reason as me, to help Valeria with the task estimates. It was something common to do and a weekly basis.
+
+That day, Valeria had her hair down with several perfectly symmetrical curls, and her glasses made her look even more beautiful and intelligent. Perhaps this time would be my chance to ask her.... The time to leave coincided with the meeting, and if I could just buy a little more time, Alberto would leave, and I could invite her for a drink. Then I could ask her...
+
+Alberto: By the way, did you know that Valeria was in your hometown some time ago?
+
+Valeria: Yes! Well, that was several years ago when I was still finishing my postgraduate studies. I remember it as a small but beautiful and peaceful place. With too many statues. Why were there so many statues everywhere over there?
+
+"Well... my town has traditionally been a town of artisans, and many of them were dedicated to sculpture, so I guess that must be the reason."
+
+Valeria: I remember that peculiar statue, kind of like a bust... for some reason, I enjoyed observing that statue. I can't explain it well. It amused me.
+
+"You mean the Hazelnut statue?"
+
+Valeria: That bust was a hazelnut? Woala... haha, I always thought it was someone's buttocks. Now a myth has fallen.
+
+"Hehe... yes, it's a hazelnut. Although there are no hazelnut trees in my town. I recall that statue was created several decades ago by an anonymous author who lived in the town. It was believed that the author saw a hazelnut for the first time and found it so curious that they captured it in that sculpture."
+
+Alberto: Well, speaking of hazelnuts, how about a few rounds at La Roñosa bar?
+
+Valeria: Yeeeiii, Let's finish over here and we are going, are you coming too?
+
+In those moments, I felt like a sailor on his ship, sailing smoothly. Everything seemed to be going unexpectedly well. That last invitation felt like a glass of cold water you drink after a day of work under the sun. I felt overflowing with joy.
+
+We finished our work at the office soon and get our way towards the bar. Upon arriving at the bar, Alberto quickly found a small corner where the worn-out columns seemed to muffle the ambient noise, allowing us to talk more comfortably.
+
+Alberto: "A beer?" - Alberto said while pointing at me.
+
+Alberto: "Valeria, the usual?"
+
+Valeria: "Yeesss."
+
+"I'll have a soft drink, please. Any."
+
+I hate alcohol. In the past, I might have said yes just to fit in and seem more "friendly," but I had outgrown that stage of immaturity, and now my thoughts revolved solely around Valeria. I was savoring every second like a child in a playground.
+
+Alberto: "Great, I'll order a round." While Alberto went to get the drinks, one of the sweetest and endearing moments I remember from a long time happened...
+
+Valeria: "I'm so glad we crossed paths. How do you feel about the team?"
+
+"I feel great, Valeria. It has been a very positive experience. The level of professionalism is high, and they have treated me amazingly well. Although it's only been a few months, I already feel like I'm fully integrated in the team."
+
+Valeria: "Aww, that's so nice! Of course, everyone in the team appreciates you a lot. You're already one of us! I've heard that you're very resolutive and attentive, always giving your best, working hard, and helping others!"
+
+"Well, it's not that big of a deal. The team also helps me a lot so I had a smooth onboarding process"
+
+For several seconds, an awkward silence ensued. During those seconds, my mind turned into a PC running at 99% CPU usage, trying to find an interesting topic to talk about.
+
+As those seconds dragged on, the discomfort grew, and I could almost feel the heat and cold sweat drops. I even wished Alberto would return soon, although deep down it was the last thing I wanted, but anything to cut that discomfort at its roots would be welcome.
+
+And then, finally, my little and stressed mental hamster spun the wheel enough for the lightbulb to go on in my mind: Pedro! I would have wished to bring up any other topic than that. But in those moments, Pedro had gone from villain to hero in my mind.
+
+"Hey, what do you know about Pedro lately, how is he doing?"
+
+Valeria: "Oh did you know he got married not long ago?"
+
+"Oh wow, I didn't know, that's great news, I'm really happy for him!"
+
+And although I genuinely felt happy for him, deep down it wasn't something that mattered to me at all.
+
+Valeria: "It's been a long time since I've talked to him. Hey, I have an idea. Come closer!"
+
+At that moment, I didn't know what was going to happen, but whatever it was, even if I tried to avoid it, my body would move on its own. When she said that "come closer," it was as if a powerful magnet was pulling me, and I couldn't resist it.
+
+Valeria: "Let's take a selfie together and send it to him. I think he'll be really happy to see us together."
+
+And those moments when my head and cheeks touched hers to take that selfie were the closest thing I could define and imagine as heavenly paradise. Each second felt like hours, and all I wished for at that moment was for that experience to last forever. 
+
+After that, I could only think one thing: Thank you, Pedro!
+
+Then Alberto arrived, and we spent the rest of the time talking and laughing about various typical and somewhat clichéd topics. Work, politics, sports, food. We decided to leave after several rounds, and that evening would have been the most wonderful of all I remembered in a long time until we said goodbayeach other...
+
+Valeria: "Well, see you tomorrow then. Goodnight! Kisses!"
+
+Alberto: "We should do this more often. Goodnight, see you tomorrow!"
+
+"Goodnight, see you tomorrow, and thanks for everything!"
+
+I gave Valeria a goodbye kiss and shook hands with Alberto. And that's when I realized it. As we turned our backs to each other to go our own ways back home, Alberto approached Valeria until their bodies touched and they held hands like a tender and sweet couple of lovebirds.
+
+...
+
+### Chapter 5
+
+And so I returned home and went to sleep that night, never wanting to wake up again, or at least that's what I wished for. And so it was, more or less.
+
+The next thing I saw was several people in white coats surrounding me, immediately I knew something was wrong. I couldn't speak or move my body, I didn't know what was happening, and a few seconds later, I felt as if electric shocks were running through my body, only to fall into a deep sleep moments later.
+
+Some while after I did not know how long it took, I felt much better, no, scratch that, I felt ecstatic. I had an unusual strength, no pain, no sadness or anguish, a strong urge to laugh and cry at the same time.
+
+I didn't quite understand what was happening or where I was. I called out for someone to answer, but no one responded back. After several attempts, I got up from where I was lying.
+
+I felt strangely light, suddenly I felt like I could do things I could only do in my younger days when energy overflowed. I felt like I could run at dizzying speeds without getting tired.
+
+I didn't understand anything. I got up and went in search of someone. From the decoration of the place, it seemed like I was at a hospital, but I felt great, phenomenal and my body looked perfect, I would even say younger and more athletic. I began to raise my voice, "Hello, is anyone there? Any doctor, please?" But no one answered.
+
+My voice seemed to have supernatural agility and power, I would think about what to say and immediately my vocal cords had already emitted the sound. Was it some effect of the medicine or anesthesia? I could only think that maybe something had happened to me while I was sleeping, perhaps I had fallen and hit myself, or maybe something worse had happened. A heart attack? But I was still very young
+
+I was about to leave the room I was in when someone called me by my name. I felt a great relief upon hearing that voice. Hopefully, I could talk to someone and get to know what was going on.
+
+"Excuse me, could you please help me? I'm feeling disoriented. I don't know what has happened. Where am I?"
+
+Rita: "Hi, I am Rita. Don't worry, that's why I'm here, to help you out. Well, actually, I'm here too because it's my turn now."
+
+"I'm sorry, I don't understand. Where I am? are you a doctor?"
+
+Rita: "I'm not a doctor. I said it's my turn now. You're done, it's my turn, now it's my turn, but don't worry, it happens to all of us. You'll gradually remember everything."
+
+"I don't understand. Can you tell me where I am? What happened? Can I call my family, please?"
+
+Rita: "Ok... come here. You have nothing to worry about. Just sit down and rest for a while. Everything is fine. You're simply done. You ate the hazelnuts that were in the contract, and now it's my turn."
+
+"What? hazelnuts...? What are you talking about?"
+
+Suddenly, I remembered the dinner at the bar with Alberto and Valeria. I remembered coming home after dinner and eating a few hazelnuts before going  bed.
+
+But I also remembered more things. Images started appearing in my mind, blurry ones, and between them, a document with something written that I couldn't fully understand.
+
+"After eating the hazelnuts, proceed to sleep, and during it, the present prenatal life exchange contract will take effect."
+
+Not only could I see those images, but I also started receiving much more information, as if it were compressed in a zip file, and my mind was gradually decompressing it all
+
+Suddenly, I began to understand better what was happening, as if the puzzle pieces had connected. Could it be possible? am I died?
+
+"Damn it, where are the doctors? am I still alive? What the hell is going on here?"
+
+Rita: "Yes, your alive, I'm talking to you and you are talking to me, right? What is not quite alive is your physical body"
+
+I then understood I had died and was a fucking ghost... 
+
+"Wait Wait, I need to process this... so I died, why? What happened to me?"
+
+Rita: "Allergic reaction to hazelnuts with severe complications. By the way, you're not completely dead. Go rest and take it easy. In a jiffy, you'll start remembering everything!"
+
+"But... I've never been allergic to hazelnuts!"
+
+Rita: "Yes, I know, but it's what we agreed upon in the prenatal contract, right?"
+
+"But I haven't even been able to say goodbye to my family!"
+
+Rita: "No need for that, as I said your physical body is not completely dead. It is now is my turn"
+
+At that moment, I instinctively looked towards the opposite direction I had walked, only to gaze in astonishment at my lifeless body lying on a hospital bed, connected to various hospital machines. Suddely I remembered.
+
+"Holy shit. Fuck. The contract!"
+
+Rita: "Haha, are you starting to remember it now?"
+
+"The fucking holy hazelnuts. Shit!. Of course I remember it. This damn hazelnut variety was the one we agreed would kill me."
+
+Not only were my memories slowly returning, but with each of them, my personality was also changing.
+
+"Haha, well, Rita, you're going to have a hell of a time using my body again. I'm a wreck."
+
+Rita: "There's no problem at all. I see you still don't remember much. We have a year ahead for your recovery. You'll be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to my new self. Nonetheless, I will have more than 45 years of life ahead, just as we agreed in the prenatal life contract."
+
+And then, as if it weren't already impossible for anything more peculiar to happen that night, I suddenly felt a strange force by my side, like the sensation when you try to join two magnets, an energy that felt familiar, almost familial.
+
+Rita seemed to sense it too, and she appeared somewhat enthusiastic. We both knew something was about to happen, but not what. And in that precise moment, next to us, a silhouette emerged, and behind the silhouette, there he was...
+
+Pedro: "Rita, my dear wife!, It is finally your turn! I missed you so much, my honey bunny"
+
+To be continued...
+
+Next on my prenantal contract: Rita, as per the prenatal contract, after some legal paperwork starts taking possesion of its new body. After that, Pedro increasingly wants to stay longer with Rita as he is fallen in love with her, which will have unexpected results in the physical world. On the other side of the story. Our protagonist tries to do all on its hand to recover its body and to win Valeria's love. He resignates to accept the contract and look for some legal loopholes. To recover its body, he will have to accept another bunch of contract conditions!
