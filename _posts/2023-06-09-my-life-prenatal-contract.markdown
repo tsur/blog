@@ -333,7 +333,7 @@ Not only were my memories slowly returning, but with each of them, my personalit
 
 "Haha, well, Rita, you're going to have a hell of a time using my body again. I'm a wreck."
 
-Rita: "There's no problem at all. I see you still don't remember much. We have a year ahead for your recovery. You'll be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to my new self. Nonetheless, I will have more than 45 years of life ahead, just as we agreed in the prenatal life contract."
+Rita: "There's no problem at all. I see you still don't remember much. We have a long while ahead for your recovery. You'll be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to my new self. Nonetheless, I will have more than 45 years of life ahead, just as we agreed in the prenatal life contract."
 
 And then, as if it weren't already impossible for anything more peculiar to happen that night, I suddenly felt a strange force by my side, like the sensation when you try to join two magnets, an energy that felt familiar, almost familial.
 
