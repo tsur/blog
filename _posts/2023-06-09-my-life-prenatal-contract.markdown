@@ -297,7 +297,7 @@ Suddenly, I remembered the dinner at the bar with Alberto and Valeria. I remembe
 
 But I also remembered more things. Images started appearing in my mind, blurry ones, and between them, a document with something written that I couldn't fully understand.
 
-"After eating the hazelnuts, proceed to sleep, and during it, the present prenatal life exchange contract will take effect."
+"... And that night, after eating the hazelnuts, proceed to sleep, and during the sleep time, the present prenatal life exchange contract will take effect ..."
 
 Not only could I see those images, but I also started receiving much more information, as if it were compressed in a zip file, and my mind was gradually decompressing it all
 
@@ -325,15 +325,17 @@ At that moment, I instinctively looked towards the opposite direction I had walk
 
 "Holy shit. Fuck. The contract!"
 
+I then remembered it clearly, and the previous pictures landing on to my mind minutes before made now all the sense
+
+"... And that night, after eating the hazelnuts, proceed to sleep, and during the sleep time, the present prenatal life exchange contract will take effect. All rights of possesion will be tranferred then to Rita as its solely and unique owner ..."
+
 Rita: "Haha, are you starting to remember it now?"
 
-"The fucking holy hazelnuts. Shit!. Of course I remember it. This damn hazelnut variety was the one we agreed would kill me."
+"The fucking holy hazelnuts. Shit!. Of course I remember it. This damn hazelnut variety would be the trigger that would kill me."
 
-Not only were my memories slowly returning, but with each of them, my personality was also changing.
+Not only were my memories slowly returning, but with each of them, my personality was also changing
 
-"Haha, well, Rita, you're going to have a hell of a time using my body again. I'm a wreck."
-
-Rita: "There's no problem at all. I see you still don't remember much. We have a long while ahead for your recovery. You'll be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to my new self. Nonetheless, I will have more than 45 years of life ahead, just as we agreed in the prenatal life contract."
+Rita: "As I said, it is my turn now. Your body shall be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to my new self. Nonetheless, I will have more than 45 years of life ahead, just as we agreed in the prenatal life contract. I cant wait to start living in the physical word!"
 
 And then, as if it weren't already impossible for anything more peculiar to happen that night, I suddenly felt a strange force by my side, like the sensation when you try to join two magnets, an energy that felt familiar, almost familial.
 
