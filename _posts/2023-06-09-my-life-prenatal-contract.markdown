@@ -327,7 +327,7 @@ At that moment, I instinctively looked towards the opposite direction I had walk
 
 I then remembered it clearly, and the previous pictures landing on to my mind minutes before made now all the sense
 
-"... And that night, after eating the hazelnuts, proceed to sleep, and during the sleep time, the present prenatal life exchange contract will take effect. All rights of possesion will be tranferred then to Rita as its solely and unique owner ..."
+"... And that night, after eating the hazelnuts, proceed to sleep, and during the sleep time, the present prenatal life exchange contract will take effect. All rights of possesion will be tranferred to Rita as its solely and unique owner ..."
 
 Rita: "Haha, are you starting to remember it now?"
 

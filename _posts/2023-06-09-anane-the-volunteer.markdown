@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Anane The Volunteer. Embracing the Unknown (Draft - Sample) - English"
+title:  "Anane The Volunteer: Embracing the Unknown (Draft - Sample) - English"
 date:   2023-06-09 13:25:25
 categories: light-novel
 ---
 
-All rights reserved. © 2023. Zuri Pabón (reach.zuripabon@gmail.com). "Anane the volunteer" is a registered trademark of Zuri Pabón
+All rights reserved. © 2023. Zuri Pabón (reach.zuripabon@gmail.com). "Anane the volunteer" and "Anane The Volunteer: Embracing the Unknown" is a registered trademark of Zuri Pabón
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 ### Prologue
