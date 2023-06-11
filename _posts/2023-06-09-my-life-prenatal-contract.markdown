@@ -225,7 +225,7 @@ Alberto: "Great, I'll go order first round" While Alberto went to get the drinks
 
 Valeria: "I'm so glad we crossed paths. How do you feel about the team?"
 
-"I feel great, Valeria. It has been a very positive experience. The level of professionalism is high, and they have treated me amazingly well. Although it's only been a few months, I already feel like I'm fully integrated in the team."
+"I feel great, Valeria. It has been a very positive experience. The level of professionalism is high, and they have treated me amazingly well. Although it's only been less than a year, I already feel like I'm fully integrated in the team."
 
 Valeria: "Aww, that's so nice! Of course, everyone in the team appreciates you a lot. You're already one of us! I've heard that you're very resolutive and attentive, always giving your best, working hard, and helping others!"
 
