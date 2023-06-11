@@ -7,7 +7,9 @@ categories: lightnovel
 
 All rights reserved. © 2023. Zuri Pabón (reach.zuripabon@gmail.com). "My Prenatal Life Contract" is a registered trademark of Zuri Pabón. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
-A young man, deeply in love with Valeria, his office mate, dies without being able to confess his love to her. Upon his death, he discovers all the details of his short life on Earth in the prenatal life contract. And now, someone else is legally in possession of his body. After offering something in exchange, he is allowed to extend his contract for a little longer, but he must accept certain conditions. Determined to finish what he started, he accepts the conditions!
+A young man, deeply in love with Valeria, his office mate, dies without being able to confess his love to her. Upon his death, he discovers all the details of his short life on Earth in the prenatal life contract. And now, someone else is legally in possession of his body. 
+
+After offering something in exchange, he is allowed to extend his contract for a little longer, but he must accept certain conditions. Determined to finish what he started, he accepts the conditions!
 
 ### Chapter 1.
 
@@ -21,9 +23,11 @@ If there was something I was proud of, it was undoubtedly the only gift I had ma
 
 If this was some kind of Isekai story, and the patience ability were a meta, I would undoubtedly be among the most broken and overpowered characters in the game.
 
-And yet, there she was every day, so close and yet so far from me. She used to sit very close to me in the office, within the reach of a gentle and slight movement of my eyes. Challenging my unwavering patience. Like a hurricane that slowly grows and ends up sweeping everything in its path. Like a hurricane that ravaged my emotions and that I could only watch from a distance, helpless and unarmed. She was the kind of woman with whom I had always wanted to start a family and share a lifetime of dedication and mutual commitment.
+And yet, there she was every day, so close and yet so far from me. She used to sit very close to me in the office, within the reach of a gentle and slight movement of my eyes. Challenging my unwavering patience. Like a hurricane that slowly grows and ends up sweeping everything in its path. Like a hurricane that ravaged my emotions and that I could only watch from a distance, helpless and unarmed. 
 
-I never longed for that fleeting and cheesy kind of relationship where you only find a glycemic overload of romance, and then there's nothing left. But I was also aware that romance, in a balanced proportion, also occupied an important space within a healthy and lasting relationship. And that question that fluttered in my thoughts was anything but romantic...
+She was the kind of woman with whom I had always wanted to start a family and share a lifetime of dedication and mutual commitment.vI never longed for that fleeting and cheesy kind of relationship where you only find a glycemic overload of romance, and then there's nothing left. 
+
+But I was also aware that romance, in a balanced proportion, also occupied an important space within a healthy and lasting relationship. And that question that fluttered in my thoughts was anything but romantic...
 
 I had met many other women, but she was different. How many times had I thought and said that very same thing, deceiving myself as I whispered those words so sweetly in my own ears to make it always feel like the first time?
 
@@ -45,7 +49,9 @@ For a few seconds, I felt like I was in an interdimensional void. And then, as i
 
 Have you ever felt something and its opposite intertwined at the same time? That notification was the closest thing to that, like a gift that I eagerly awaited but also didn't want to ever open.
 
-I may have tried to open that notification more than ten times. It was so delightful, like when you buy something online and you're excited for the unboxing, but you want to wait a little longer. I wanted to keep it for more time. Plus, if I was taking longer to reply, it would seem more natural. It was like finishing eating a sweet candy and then immediately having to brush your teeth. I didn't want to brush my teeth just yet! Let me enjoy it a little while longer!
+I may have tried to open that notification more than ten times. It was so delightful, like when you buy something online and you're excited for the unboxing, but you want to wait a little longer. I wanted to keep it for more time. Plus, if I was taking longer to reply, it would seem more natural. 
+
+It was like finishing eating a sweet candy and then immediately having to brush your teeth. I didn't want to brush my teeth just yet! Let me enjoy it a little while longer!
 
 ...
 
@@ -73,7 +79,9 @@ Pedro and I shared many things in common. We went to the same school, had the sa
 
 However, there were many other things that set us apart, and one of them, the one that left the strongest impression in my mind and memories, was his rapid rise in popularity with girls during adolescence. Unlike me, Pedro was physically popular among girls and never lacked suitors as a teenager.
 
-I still felt the heavy burden of remembering how Pedro enthusiastically told me his first time with a girl at only 14 years old, while I, in my late thirties, still held onto my virginity. I felt pathetic just thinking about it. I felt bad about myself even for allowing those thoughts to hurt me. If I couldn't respect and love myself, perhaps I didn't deserve to feel the love of others, which made me feel, if it was still possible, even more pathetic.
+I still felt the heavy burden of remembering how Pedro enthusiastically told me his first time with a girl at only 14 years old, while I, in my late thirties, still held onto my virginity. I felt pathetic just thinking about it. I felt bad about myself even for allowing those thoughts to hurt me. 
+
+If I couldn't respect and love myself, perhaps I didn't deserve to feel the love of others, which made me feel, if it was still possible, even more pathetic.
 
 Everything seemed to fit and make sense and it was hard for me to admit. It was like a cruel nightmare returning from the past. As if from those memories, dozens of long, thin hands emerged with the sole purpose of grabbing me and dragging me from that dreamlike paradise of hope back to harsh reality. Was this some kind of punishment for sins committed in some past life? How could something like this be happening? Why?
 
@@ -103,7 +111,9 @@ However, at the same time, I couldn't help but wonder how I could dodge what I t
 
 If this were an Isekai, my workplace would be a dark dungeon filled with enemies where I would have balanced my defensive and offensive skills, although I would have died and been reborn many times to achieve it.
 
-In those fleeting encounters, we always said goodbye with a hug. In those moments, everything stopped, I felt at home, safe, calm, at peace, and with a strong conviction that we were good friends, soulmates who had known each other in past times and were mean to be stay together forever. However, I also knew this was just an elaborated excuse to convice myself about the hard reality. I was nothing to her.
+In those fleeting encounters, we always said goodbye with a hug. In those moments, everything stopped, I felt at home, safe, calm, at peace, and with a strong conviction that we were good friends, soulmates who had known each other in past times and were mean to be stay together forever. 
+
+However, I also knew this was just an elaborated excuse to convice myself about the hard reality. I was nothing to her.
 
 And the most obvious evidence of it is she always hugged everyone after saying goodbye. However, when I was feeling her delicate arms embracing me, I didn't even desire her love anymore; her mere company was enough for me, her friendship alone was sufficient. 
 
@@ -114,8 +124,6 @@ How disappointed I felt with myself. At 31 years old, I already felt like I was 
 Sometimes I thought that a large part of my life had been a series of mistakes. Don't get me wrong, I also had good and happy moments, but as it often happens, they were few and overshadowed by the bad memories.
 
 The worst part was being aware of it. Knowing how I had wasted so many good opportunities that would never come back, at least not in the same way.
-
-On several occasions, I could have bought digital currency at a ridiculously low price that years later would be worth more than gold. What would have become of my life if I had seized those opportunities?
 
 I've never been ambitious, I've never desired to live in opulence, but I would have liked to have a simple and happy life in a good home to live in, a little house close to nature, with a small garden to grow a vegetable patch, space for a chicken coop, some fruit trees, and a swimming pool alongside a small workshop.
 
