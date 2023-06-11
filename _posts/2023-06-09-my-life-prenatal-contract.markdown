@@ -283,27 +283,25 @@ I was about to leave the room I was in when someone called me by my name. I felt
 
 "Excuse me, could you please help me? I'm feeling disoriented. I don't know what has happened. Where am I?"
 
-Rita: "Hi, I am Rita. Don't worry, that's why I'm here, to help you out. Well, actually, I'm here too because it's my turn now."
+Rita: "Hi, I am Rita. Don't worry, that's why I'm here, to help you out. Well, actually, I'm here because it's my turn now."
 
 "I'm sorry, I don't understand. Where I am? are you a doctor?"
 
-Rita: "I'm not a doctor. I said it's my turn now. You're done, it's my turn, now it's my turn, but don't worry, it happens to all of us. You'll gradually remember everything."
+Rita: "I'm not a doctor. I said I'm here because it is my turn now, but don't worry, it always happens the same way. You'll gradually remember everything."
 
-"I don't understand. Can you tell me where I am? What happened? Can I call my family, please?"
+"I don't understand. Can you tell me where I am? Can I have your phone please? Can I call my family, please?"
 
-Rita: "Ok... come here. You have nothing to worry about. Just sit down and rest for a while. Everything is fine. You're simply done. You ate the hazelnuts that were in the contract, and now it's my turn."
+Rita: "Ok... come here. You have nothing to worry about. Just sit down and rest for a while. Everything is fine. You're simply done. You ate the hazelnuts that were in your life contract so it is now your time to leave and my time to join in"
 
 "What? hazelnuts...? What are you talking about?"
 
-Suddenly, I remembered the dinner at the bar with Alberto and Valeria. I remembered coming home after dinner and eating a few hazelnuts before going  bed.
+Suddenly, I remembered the dinner at the bar with Alberto and Valeria. I remembered coming home after dinner and eating a few hazelnuts before going bed. But I also remembered more things. Images started appearing in my mind, blurry ones, and between them, a document with something written that I couldn't fully understand.
 
-But I also remembered more things. Images started appearing in my mind, blurry ones, and between them, a document with something written that I couldn't fully understand.
-
-"... And that night, after eating the hazelnuts, proceed to sleep, and during the sleep time, the present prenatal life exchange contract will take effect ..."
+"... And that night ..., after eating the hazelnuts, proceed to sleep, and during the sleep time ... the present prenatal life exchange contract will take effect ..."
 
 Not only could I see those images, but I also started receiving much more information, as if it were compressed in a zip file, and my mind was gradually decompressing it all
 
-Suddenly, I began to understand better what was happening, as if the puzzle pieces had connected. Could it be possible? am I died?
+Suddenly, I began to understand better what was happening, as if the puzzle pieces had connected together. Could it be possible? am I died?
 
 "Damn it, where are the doctors? am I still alive? What the hell is going on here?"
 
@@ -311,33 +309,33 @@ Rita: "Yes, your alive, I'm talking to you and you are talking to me, right? Wha
 
 I then understood I had died and was a fucking ghost... 
 
-"Wait Wait, I need to process this... so I died, why? What happened to me?"
+"Wait Wait, I need some time please... so I died, Why? What was that? is this a fucking dream?
 
-Rita: "Allergic reaction to hazelnuts with severe complications. By the way, you're not completely dead. Go rest and take it easy. In a jiffy, you'll start remembering everything!"
+Rita: "Allergic reaction to hazelnuts with severe complications. But actually, you're not completely dead. Go rest and take it easy. In a jiffy, you'll start remembering everything!"
 
-"But... I've never been allergic to hazelnuts!"
+"What?... I've never been allergic to hazelnuts!"
 
-Rita: "Yes, I know, but it's what we agreed upon in the prenatal contract, right?"
+Rita: "Yes, yes, but it's what we agreed upon in our prenatal life contract, don't you remember?"
 
 "But I haven't even been able to say goodbye to my family!"
 
-Rita: "No need for that, as I said your physical body is not completely dead. We just agreed on this so now it is my turn"
+Rita: "No need for that, as I said your physical body is not completely dead. We just agreed on this. You are leaving now, and I'm coming. It is my turn. Your family will be ok, they won't notice anything, hopefully"
 
 At that moment, I instinctively looked towards the opposite direction I had walked, only to gaze in astonishment at my lifeless body lying on a hospital bed, connected to various hospital machines. And, suddenly, I remembered better.
 
-"Holy shit. Fuck. The contract!"
+"Holy shit. Fuck. The fucking life contract!"
 
 I remembered the previous pictures landing on to my mind minutes before. so it made now all sense
 
-"... And that night, after eating the hazelnuts, proceed to sleep, and during the sleep time, the present prenatal life exchange contract will take effect. All rights of possesion will be tranferred to Rita as its solely and unique owner ..."
+"... And that night ..., after eating the hazelnuts, proceed to sleep, and during the sleep time ..., the present prenatal life exchange contract will take effect. All rights of possesion will be tranferred to Rita as its solely and unique owner ..."
 
-Rita: "Haha, are you starting to remember it now?"
+Rita: "Haha, well well, you see, I told you would remember it soon, so you now remember it, don't you?"
 
-"The fucking holy hazelnuts. Fuck!, Shit! This damn hazelnut variety would be the trigger that would make and end to my earthly life and would pass the turn to you"
+"The fucking holy hazelnuts. I can't believe it! Why the hell we agreed on this damn hazelnut variety would kill me?"
 
-Not only were my memories slowly returning, but with each of them, my personality was also changing
+Not only were my memories slowly returning, but with each of them, my personality was also changing. And now I was completely aware that my time on earth was over. It was the time for Rita, to continue where I left off
 
-Rita: "This was our agreement, and as I said, it is my turn now. As specified in the prenatal life contract, your body shall be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to my new self. Nonetheless, I will have more than 45 years of life ahead, just as we agreed in the contract. I can't wait to start living in the physical word!"
+Rita: "This was our agreement. As specified in the prenatal life contract, your body shall be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to it in my new earthly life. Nonetheless, I also agreed on having more than 45 years of life ahead. I can't wait to start living in the physical word!"
 
 And then, as if it was impossible for anything more peculiar to happen that night, I suddenly felt a strange force by my side, like the sensation when you try to join two magnets, an energy that felt familiar, almost familiar.
 
