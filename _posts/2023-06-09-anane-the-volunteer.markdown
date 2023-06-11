@@ -28,7 +28,13 @@ He had just completed his first service cycle, that is his first major service w
 
 "Pay attention, Anane. Today is the day of your promotion. You will become a new volunteer, and from that moment on, you will no longer be my child. Before that happens later, I would like you to keep this with yourself. It has been a ancient family gem. One of the pieces my family lineage has kept for ages and now also yours. I'm no longer a volunteer, but you can still find the missing pieces and bring back to life this ancient volunteer. Go keep it safe, and get ready for the promotion ceremony."
 
-While Anane finished preparing everything, I looked again at the now reddish sky, stained like blood, and remembered my first mother. She had a fierce and imposing appearance, but her energy was gentle and calm. Her energy emitted vibrant and penetrating colors, and her rhythm was smooth and unhurried. One can never forget the first mother; its imprint and strength are engraved in your soul forever.
+I had a special affection for this gem. It was the first one I found in the colonization operations when I was younger. But despite all my efforts, I could never communicate with it. Its thought energies remained very dense, with almost no movement, and the only known way to bring them back to life was through smelting.
+
+When gems were melted, their thought energies became lighter, escaping the density and taking on new forms. However, this was an especially painful and traumatic process for the thought energies. And without other gems to complete the missing thought energies, smelting would yield no results, only bringing more pain and suffering. So we could only resort to smelting when we had numerous gems of the same nature. And I had only one. But this time, who knows, perhaps Anane would have better luck than me.
+
+Anane: “Thank you Mother. My beginning and my end. You can trust I shall keep and protect this gem to the end of my days and shall serve this gem with love and dedication or shall pass the torch to those who come after me if I fail. This gem will not be forgotten. If I may, I would like to name this gem same as yours, Mother”
+
+While Anane finished getting ready for the promotion ceremony, I looked again at the now reddish sky, stained like blood, and remembered my first mother. She had a fierce and imposing appearance, but her energy was gentle and calm. Her energy emitted vibrant and penetrating colors, and her rhythm was smooth and unhurried. One can never forget the first mother; its imprint and strength are engraved in your soul forever.
 
 My thoughts about Zeniza, my first mother, took my back to the events that marked the beginning of the colonies of the ancient volunteers, how they gradually descended into the lower realities, eons ago. These ancient volunteers were the founders of new worlds, bringing light where there was only darkness, confusion, and disorder.
 
