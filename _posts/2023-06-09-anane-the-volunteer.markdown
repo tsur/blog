@@ -14,7 +14,7 @@ It was like a sudden awakening, difficult and confusing at times, but refreshing
 
 "Mother, today is the day of the promotion," Anane said joyfully as he was assisting me.
 
-The atmosphere in the room was warm and subdued, briefly illuminated by a violet iridescence. From the window, I could see a beautiful orange sunset. My uniform, a one-piece garment in deep black obsidian, absorbed the vibrant violet and golden hues that filled the room all over around, as if prisoners denied them the freedom to reflect and radiate their warm and beautiful hues.
+The atmosphere in the room was warm and subdued, briefly illuminated by a violet iridescence. From the window, I could see a beautiful orange sunrise. My uniform, a one-piece garment in deep black obsidian, absorbed the vibrant violet and golden hues that filled the room all over around, as if prisoners denied them the freedom to reflect and radiate their warm and beautiful hues.
 
 "Today is the day we have been waiting for, Anane. You will finally descend. This will be your first awakening, the most beautiful and exciting of all that will come after."
 
@@ -22,15 +22,15 @@ The atmosphere in the room was warm and subdued, briefly illuminated by a violet
 
 This time, the promotion ceremony for new volunteers was taking place at alpha-52, the brightest and most beautiful star in our galactic sector.
 
-Anane had served me well. He was a good boy, slim in appearance, and with a remarkable peaceful energy. Among her ancestors were great artists and some renowned scientists who had contributed significant achievements to our old and advanced holographic society. Although Anane did not excel in any specific area of knowledge, he had achieved notable progress and development in those fields where his most notable ancestors had rarely achieved better results.
+Anane had served me well. He was a good boy, slim in appearance, and with a remarkable peaceful energy. Among his ancestors were great artists and some renowned scientists who had contributed significant achievements to our old and advanced holographic society. Although Anane did not excel in any specific area of knowledge, he had achieved notable progress and development in those fields where his most notable ancestors had rarely achieved better results.
 
 He had just completed his first service cycle, that is his first major service was coming to an end and soon, I would no longer be his first mother, and Anane would cease to be my child. I was lately feeling as if I could have done more to assist Anane and that feeling was growing deep inside me.
 
-"Pay attention, Anane. Today is the day of your promotion. You will become a new volunteer, and from that moment on, you will no longer be my child. Before that happens later, I would like to teach you something important that you might need in your new stage of service as a volunteer. But first, tidy everything up for when we return from the promotion ceremony, please."
+"Pay attention, Anane. Today is the day of your promotion. You will become a new volunteer, and from that moment on, you will no longer be my child. Before that happens later, I would like you to keep this with yourself. It has been a ancient family gem. One of the pieces my family lineage has kept for ages and now also yours. I'm no longer a volunteer, but you can still find the missing pieces and bring back to life this ancient volunteer. Go keep it safe, and get ready for the promotion ceremony."
 
-While Anane finished preparing everything, I looked again at the now reddish sky, stained like blood, and remembered my first mother. She had a fierce and imposing appearance, but her energy was gentle and calm. Her energy emitted vibrant and penetrating colors, and her rhythm was smooth and unhurried. One can never forget the first mother; its imprint and energy are engraved in your soul forever.
+While Anane finished preparing everything, I looked again at the now reddish sky, stained like blood, and remembered my first mother. She had a fierce and imposing appearance, but her energy was gentle and calm. Her energy emitted vibrant and penetrating colors, and her rhythm was smooth and unhurried. One can never forget the first mother; its imprint and strength are engraved in your soul forever.
 
-My thoughts about Zeniza, my first mother, took my back to the events that marked the beginning of the colonies of the ancient volunteers, how they gradually descended into the only reality I knew about during my first service, ages ago. These ancient volunteers were the founders of new worlds, bringing light where there was only darkness, confusion, and disorder.
+My thoughts about Zeniza, my first mother, took my back to the events that marked the beginning of the colonies of the ancient volunteers, how they gradually descended into the lower realities, eons ago. These ancient volunteers were the founders of new worlds, bringing light where there was only darkness, confusion, and disorder.
 
 The risks they took were immense, and many of them perished in service to knowledge, wisdom, and the expansion of everything, our beloved and eternal singular principle. They were absorbed by those uncertain realities, just as my one-piece deep black obsidian uniform absorbed the beautiful and warm colors of that blood-stained evening I was looking at through the window—colors that timidly and innocently dared to touch the fine and delicate mesh of deep black thread fabric, never to escape it again.
 
