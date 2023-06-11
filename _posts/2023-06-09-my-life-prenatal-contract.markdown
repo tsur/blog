@@ -79,7 +79,7 @@ Pedro and I shared many things in common. We went to the same school, had the sa
 
 However, there were many other things that set us apart, and one of them, the one that left the strongest impression in my mind and memories, was his rapid rise in popularity with girls during adolescence. Unlike me, Pedro was physically popular among girls and never lacked suitors as a teenager.
 
-I still felt the heavy burden of remembering how Pedro enthusiastically told me his first time with a girl at only 14 years old, while I, in my late thirties, still held onto my virginity. I felt pathetic just thinking about it. I felt bad about myself even for allowing those thoughts to hurt me. 
+I still felt the heavy burden of remembering how Pedro enthusiastically told me his first time with a girl at only 14 years old, while I, in my thirties, still held onto my virginity. I felt pathetic just thinking about it. I felt bad about myself even for allowing those thoughts to hurt me. 
 
 If I couldn't respect and love myself, perhaps I didn't deserve to feel the love of others, which made me feel, if it was still possible, even more pathetic.
 
@@ -151,7 +151,7 @@ Valeria: "uwu! How are you!? Would you mind helping me with some task estimation
 
 [Typing...]
 
-"Hi Valeria!!, how are you? Yes, yes... sure! Let m..." 
+"Hi Valeria!!, how are you? ok, let me..." 
 
 [Typing...]
 
@@ -161,7 +161,7 @@ Valeria: "uwu! How are you!? Would you mind helping me with some task estimation
 
 [Trying to connect...]
 
-"Hi Valeria! Yepp sure! I'll send it to you right now"
+"Hi Valeria! how are you? sure!, I can help you!"
 
 [Connect to network]
 
@@ -170,14 +170,6 @@ Valeria: "uwu! How are you!? Would you mind helping me with some task estimation
 [Valeria is typing...]
 
 Valeria: "I'm in the meeting room, come over if you are available now, and we can go through it together :), is it okay?"
-
-"I better send it to you, I have the estimates n..." 
-
-[Typing...]
-
-"Okay, I'm on my way now!"
-
-[Send message]
 
 When I arrived at the meeting room, I found her sitting next to Alberto. I didn't know if I was happy or not to see him there. I truly wished to be alone with her, but I also didn't want to force an uncomfortable situation for either of us, specially for me to be honest.
 
@@ -213,9 +205,9 @@ We finished our work at the office soon and get our way towards the bar. Upon ar
 
 Alberto: "A beer?" - Alberto said while pointing at me.
 
-Alberto: "Valeria, the usual?"
+Alberto: "Valeria, same as usual?"
 
-Valeria: "Yeesss."
+Valeria: "Yeesss, thanks!"
 
 "I'll have a soft drink, please. Any."
 
