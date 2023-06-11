@@ -261,7 +261,7 @@ Alberto: "We should do this more often. See you!"
 
 I gave Valeria a goodbye hug and shook hands with Alberto. And that's when I realized it. As we turned our backs to each other to go our own ways back home, Alberto approached Valeria until their bodies touched and they held hands like a tender and sweet couple of lovebirds...
 
-They were couple.
+They were in a relationship.
 
 ### Chapter 5
 
