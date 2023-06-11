@@ -329,25 +329,25 @@ Rita: "Yes, I know, but it's what we agreed upon in the prenatal contract, right
 
 "But I haven't even been able to say goodbye to my family!"
 
-Rita: "No need for that, as I said your physical body is not completely dead. It is now is my turn"
+Rita: "No need for that, as I said your physical body is not completely dead. We just agreed on this so now it is my turn"
 
-At that moment, I instinctively looked towards the opposite direction I had walked, only to gaze in astonishment at my lifeless body lying on a hospital bed, connected to various hospital machines. Suddely I remembered.
+At that moment, I instinctively looked towards the opposite direction I had walked, only to gaze in astonishment at my lifeless body lying on a hospital bed, connected to various hospital machines. And, suddenly, I remembered better.
 
 "Holy shit. Fuck. The contract!"
 
-I then remembered it clearly, and the previous pictures landing on to my mind minutes before made now all the sense
+I remembered the previous pictures landing on to my mind minutes before. so it made now all sense
 
 "... And that night, after eating the hazelnuts, proceed to sleep, and during the sleep time, the present prenatal life exchange contract will take effect. All rights of possesion will be tranferred to Rita as its solely and unique owner ..."
 
 Rita: "Haha, are you starting to remember it now?"
 
-"The fucking holy hazelnuts. Shit!. Of course I remember it. This damn hazelnut variety would be the trigger that would kill me."
+"The fucking holy hazelnuts. Fuck!, Shit! This damn hazelnut variety would be the trigger that would make and end to my earthly life and would pass the turn to you"
 
 Not only were my memories slowly returning, but with each of them, my personality was also changing
 
-Rita: "As I said, it is my turn now. Your body shall be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to my new self. Nonetheless, I will have more than 45 years of life ahead, just as we agreed in the prenatal life contract. I cant wait to start living in the physical word!"
+Rita: "This was our agreement, and as I said, it is my turn now. As specified in the prenatal life contract, your body shall be in a coma for six months and then two more years for rehabilitation, which I will naturally use to gradually get accustomed to my new self. Nonetheless, I will have more than 45 years of life ahead, just as we agreed in the contract. I can't wait to start living in the physical word!"
 
-And then, as if it weren't already impossible for anything more peculiar to happen that night, I suddenly felt a strange force by my side, like the sensation when you try to join two magnets, an energy that felt familiar, almost familial.
+And then, as if it was impossible for anything more peculiar to happen that night, I suddenly felt a strange force by my side, like the sensation when you try to join two magnets, an energy that felt familiar, almost familiar.
 
 Rita seemed to sense it too, and she appeared somewhat enthusiastic. We both knew something was about to happen, but not what. And in that precise moment, next to us, a silhouette emerged, and behind the silhouette, there he was...
 
