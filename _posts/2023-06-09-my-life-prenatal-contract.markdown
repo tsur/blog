@@ -235,7 +235,9 @@ For several seconds, an awkward silence ensued. During those seconds, my mind tu
 
 As those seconds dragged on, the discomfort grew, and I could almost feel the heat and cold sweat drops. I even wished Alberto would return soon, although deep down it was the last thing I wanted, but anything to cut that discomfort at its roots would be welcome.
 
-And then, finally, my little and stressed mental hamster spun the wheel enough for the lightbulb to switch on in my mind: Pedro! I would have wished to bring up any other topic than that. But in those moments, Pedro had gone from villain to hero in my mind.
+And then, finally, my little and stressed mental hamster spun the wheel enough for the lightbulb to switch on in my mind: Pedro! 
+
+I would have wished to bring up any other topic than that. But in those moments, Pedro had gone from villain to hero in my mind.
 
 "Hey, what do you know about Pedro lately, do you know how is he doing?"
 
