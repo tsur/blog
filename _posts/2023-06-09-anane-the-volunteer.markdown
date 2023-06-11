@@ -34,11 +34,11 @@ When gems were melted, their thought energies became lighter, escaping the densi
 
 Anane: “Thank you Mother. My beginning and my end. You can trust I shall keep and protect this gem to the end of my days and shall serve this gem with love and dedication or shall pass the torch to those who come after me if I fail. This gem will not be forgotten. If I may, I would like to name this gem same as yours, Mother”
 
-While Anane finished getting ready for the promotion ceremony, I looked again at the now reddish sky, stained like blood, and remembered my first mother. She had a fierce and imposing appearance, but her energy was gentle and calm. Her energy emitted vibrant and penetrating colors, and her rhythm was smooth and unhurried. One can never forget the first mother; its imprint and strength are engraved in your soul forever.
+I nodded my head in approval to Anane's request while I looked again at the now reddish sky, stained like blood, and remembered my first mother. She had a fierce and imposing appearance, but her energy was gentle and calm. Her energy emitted vibrant and penetrating colors, and her rhythm was smooth and unhurried. One can never forget the first mother; its imprint and strength are engraved in your soul forever.
 
 My thoughts about Zeniza, my first mother, took my back to the events that marked the beginning of the colonies of the ancient volunteers, how they gradually descended into the lower realities, eons ago. These ancient volunteers were the founders of new worlds, bringing light where there was only darkness, confusion, and disorder.
 
-The risks they took were immense, and many of them perished in service to knowledge, wisdom, and the expansion of everything, our beloved and eternal singular principle. They were absorbed by those uncertain realities, just as my one-piece deep black obsidian uniform absorbed the beautiful and warm colors of that blood-stained evening I was looking at through the window—colors that timidly and innocently dared to touch the fine and delicate mesh of deep black thread fabric, never to escape it again.
+The risks they took were immense, and many of them perished in service to knowledge, wisdom, and the expansion of everything, our beloved and eternal singular principle. They were absorbed by those uncertain realities, just as my one-piece deep black obsidian uniform absorbed the beautiful and warm colors of that blood-stained morning I was looking at through the window — colors that timidly and innocently dared to touch the fine and delicate mesh of deep black thread fabric, never to escape it again.
 
 The volunteers departed in large groups to those unknown lower realities. Many of them were lost forever in the depths of those unknown realities. Even to these days, many ancient volunteers are still lost, emitting a faint pulse, in perpetual hibernation, awaiting the moment when other volunteers will reach them wherever they may be found and awaken them from their long and harsh slumber. 
 
@@ -54,7 +54,7 @@ To facilitate the projection of our thought energies into the molds, the ancient
 
 Projecting into a lower reality requires intense preparation. This preparation is the volunteers' first great service and spans across multiple ages. The candidates to volunteers learn to master their base frequency, allowing them to descend or ascend at will to a lower reality in a simulated experience. But when simulation is over and volunteers truly descend, even the slightest imbalance would have fatal consequences. 
 
-That is why we never bring with us our memories during the first descent into a lower reality. They remain intact in our original reality, and it is only when we have fully mastered the descent technique that we can bring them with us. So, during our initial awakening in the lower realities, we remember nothing of who we are. It is the most important job a mother was in charge of. Taking care of the volunteer child memories and assisting during that hard moments when the volunteer remembers nothing about its own existence. I was my last pending job with Anane untill he could dominate the technique and bring its memories with himself without its mother assistence.
+That is why we never bring with us our memories during the first descent into a lower reality. They remain intact in our original reality, and it is only when we have fully mastered the descent technique that we can bring them with us. So, during our initial awakening in the lower realities, we remember nothing of who we are. It is the most important job a mother was in charge of. Taking care of the volunteer child memories and assisting during that hard moments when the volunteer remembers nothing about its own existence. It was my last pending job with Anane untill he could dominate the technique and bring its memories with himself without my assistence.
 
 It was a painful lesson for the ancient volunteers to learn. They were unaware of it at the very beginning, and many of them suffered greatly from not being able to remember all the details of their origins. Not all of them were affected to the same degree at the same time. 
 
@@ -62,18 +62,16 @@ Those volunteers who managed to maintain and preserve their less fragmented memo
 
 Despite the advanced state of colonization in our lower reality, its density literally crushed our thought energies, causing them to fragment over time, like a beautiful mirror slowly wearing down and cracking into hundreds of thousands of small pieces. So, at regular intervals, when our thought energies fragmented and broke apart, we had to return home to recover. Our thought energies were highly calibrated before our descent to return back home after a critic threshold was reached. And we called this process death.
 
-Anane: "Everything is ready and tidy, Mother."
-
-Anane fixed then his gaze on me, deeply intrigued, as if trying to find the key to a hidden treasure and asked. "Shall I descend after we return back from the promotion ceremony, Mother?"
+While I was still thinking on this all. Anane fixed his gaze on me, deeply intrigued, as if trying to find the key to a hidden treasure and asked. "Shall I descend after we return back from the promotion ceremony, Mother?"
 
 "That will depend on how good or bad you perform at the promotion ceremony final test. And talking about the ceremony, it is time to depart. I firmly trust on your good performance and never forget I will be there on your side to assist you, my child"
 
 Anane: "Mother, please, grant me with the privilege of taking you with me to the ceremony hall"
 
 
-It is common for us to travel using technological means through portals or spaceships. However, it is a tradition for the ceremony day to let volunteers candidate travel using a extremely dangerous and risky technique. This is one of the hardest and most important technique all volunteers have to dominate before the time to descend comes for them
+It is common for us to travel using technological means through portals or spaceships. However, it is a tradition for the ceremony day to let volunteer candidates travel using a extremely dangerous and risky technique. This is one of the hardest and most important technique all volunteers have to dominate before the time to descend comes for them
 
-"My beginning and my end" I said Anane in a sign of approval as I trasmited the frequency of the ceremony audience hall in alpha-52 from the stellar map right into the Anane's thought energies
+"My beginning and my end" I said Anane in a sign of approval as I trasmited the frequency of the ceremony audience hall coordinates in alpha-52 from the stellar maps right into the Anane's thought energies
 
 Anane: "There are two different ways to travel. In one, you move towards the destination, and in the other, the destination moves towards you"
 
