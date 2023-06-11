@@ -73,7 +73,7 @@ It is common for us to travel using technological means through portals or space
 
 "My beginning and my end" I said Anane in a sign of approval as I trasmited the frequency of the ceremony audience hall coordinates in alpha-52 from the stellar maps right into the Anane's thought energies
 
-Anane: "There are two different ways to travel. In one, you move towards the destination, and in the other, the destination moves towards you"
+There are two different ways to travel. In one, you move towards the destination, and in the other, the destination moves towards you
 
 At that moment, Anane fixed his eyes on mine, large and of a deep violet-blue color, as if by instinctive reflection, and join our hands together. Anane fully concentrated and ordered its thoughts energies to get excited to the destination frequency. 
 
