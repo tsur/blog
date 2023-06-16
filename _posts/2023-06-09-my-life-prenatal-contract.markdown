@@ -2,7 +2,7 @@
 layout: post
 title:  "My Prenatal Life Contract (Draft - Sample) - English"
 date:   2023-06-09 13:25:25
-categories: Light Novels
+categories: "Light Novels"
 ---
 
 All rights reserved. © 2023. Zuri Pabón (reach.zuripabon@gmail.com). "My Prenatal Life Contract" is a registered trademark of Zuri Pabón. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
