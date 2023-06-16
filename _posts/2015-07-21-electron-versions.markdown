@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "[JS] Electron Version Numbers"
+title:  "Electron Version Numbers"
 date:   2015-07-21 19:56:25
-categories: js
+categories: Tech
+author: Zuri Pabón
 ---
 
 Electron is a framework for developing cross-platform desktop applications with the HTML/CSS/JS triada. A common example of electron applications is the Atom editor or Slack. Under the hook, Electron is based on io.js and Chromium projects. When developing on Electron it becomes sometimes necessary to know what versions of what thing are you currently using.
