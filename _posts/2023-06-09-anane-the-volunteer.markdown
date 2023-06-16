@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Anane The Volunteer: Embracing the Unknown (Draft - Sample) - English"
+title:  "Anane The Volunteer: Embracing the Unknown (Draft Sample)"
 date:   2023-06-09 13:25:25
-categories: "Light Novels"
+category: Light Novels
 author: Zuri Pabón
 ---
 

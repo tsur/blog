@@ -2,7 +2,8 @@
 layout: post
 title:  "Mi Contrato Prenatal (Provisional) - Spanish"
 date:   2023-06-09 13:25:25
-categories: "Light Novels"
+category: Light Novels
+author: Zuri Pabón
 published: false
 ---
 

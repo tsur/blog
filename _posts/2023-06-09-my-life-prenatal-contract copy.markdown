@@ -2,7 +2,8 @@
 layout: post
 title:  "The Disciples of John the Apostle. The Empire's Worst Nightmare. (Draft - Sample) - English"
 date:   2023-06-09 13:25:25
-categories: "Light Novels"
+category: Light Novels
+author: Zuri Pabón
 published: false
 ---
 
