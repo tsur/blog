@@ -2,6 +2,7 @@
 layout: post
 title:  "3D Transformations: Perspective & Rotate"
 date:   2015-07-20 22:33:25
+category: Tech
 author: Zuri Pabón
 ---
 

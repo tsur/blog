@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "My Prenatal Life Contract (Draft Sample)"
-# date:   2023-06-09 13:25:25
 category: Light Novels
 author: Zuri Pabón
 ---
