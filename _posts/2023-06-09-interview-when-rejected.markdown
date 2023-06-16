@@ -6,7 +6,7 @@ category: Tech
 author: Zuri Pabón
 ---
 
-Recently, I had the opportunity to participate in the selection process for a senior full-stack software engineer position at a company dedicated to the education sector (for privacy reasons, I will omit the company name and refer to it as "Educasoft" from here on). But before I share my experience, I'd like to provide some context about my situation before and during the selection process.
+Recently, I had the opportunity to participate in the selection process for a senior full-stack software engineer position at a company dedicated to the education sector (for privacy reasons, I will omit the company name). But before I share my experience, I'd like to provide some context about my situation before and during the selection process.
 
 I have been working in software development for approximately 10 years. It is a job that I enjoy and love, as it is not only my livelihood but also a great hobby. Over the past 4 years, I have worked for a company where I have grown significantly both professionally and personally, acquiring and developing skills that I wasn't even aware of in my previous career.
 
