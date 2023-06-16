@@ -1,12 +1,12 @@
 # Site settings
 title: 0x2C
-email: zurisadai.pabon@gmail.com
+email: reach.zuripabon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just my little corner where start tuning my innate literacy talent ;)
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://tsur.github.io" # the base hostname & protocol for your site
+url: "https://zuripabon.es" # the base hostname & protocol for your site
 twitter_username: zuripabon
-github_username:  tsur
+github_username:  zuripabon
 highlighter: pygments
 # Build settings
 markdown: kramdown

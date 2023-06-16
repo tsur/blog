@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "CSS 3D Transformations: Perspective & Rotate"
+title:  "[CSS] 3D Transformations: Perspective & Rotate"
 date:   2015-07-20 22:33:25
 categories: css
-published: false
 ---
 
 This time, I'd like to introduce those awesome Perpective and Rotate (Ratata?) CSS transformations and to do it, I'll stand it by using a common UI element so we may find a good use for it: Tabs.
@@ -20,7 +19,6 @@ and let's add now some CSS transformation to it:
 
 {% highlight css %}
 .tab {
-  	
 	display: inline-block;
 	padding: 1em;
 	margin: 1em;
