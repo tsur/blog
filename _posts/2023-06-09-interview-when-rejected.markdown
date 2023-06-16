@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feedback on making a good interview process"
+title:  "Feedback on improving your job interview process"
 date:   2023-06-09
 category: Tech
 author: Zuri Pabón
