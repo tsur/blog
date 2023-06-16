@@ -5,14 +5,11 @@ category: Light Novels
 author: Zuri Pabón
 ---
 
-All rights reserved. © 2023. Zuri Pabón (reach.zuripabon@gmail.com). "Anane the volunteer" and "Anane The Volunteer: Embracing the Unknown" is a registered trademark of Zuri Pabón
-No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+All rights reserved. © 2023. Zuri Pabón (reach.zuripabon@gmail.com). "Anane the volunteer" and "Anane The Volunteer: Embracing the Unknown" is a registered trademark of Zuri Pabón. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 ### Prologue
 
-It was like a sudden awakening, difficult and confusing at times, but refreshing and enlightening in the end.
-
-"Mother, today is the day of the promotion," Anane said joyfully as he was assisting me.
+It was like a sudden awakening, difficult and confusing at times, but refreshing and enlightening in the end. "Mother, today is the day of the promotion," Anane said joyfully as he was assisting me.
 
 The atmosphere in the room was warm and subdued, briefly illuminated by a violet iridescence. From the window, I could see a beautiful orange sunrise. My uniform, a one-piece garment in deep black obsidian, absorbed the vibrant violet and golden hues that filled the room all over around, as if prisoners denied them the freedom to reflect and radiate their warm and beautiful hues.
 
