@@ -48,7 +48,7 @@ Instead of processing and resizing images into all necessary sizes as part of th
 
 The first solution is to use a HTTP image processing server as a micro-service that exposes an endpoint to generate thumbnails images on demand. It receives the original image URL and different options to specify the size and other possible image transformations.
 
-As part of this solution, we implemented a basic HTTP image processing server in go (you can check the source code here https://github.com/zuripabon/img-proxy-thumbnails) which exposes a simple API Rest with a GET /thumbnail endpoint. The client code may request this endpoint by passing in the thumbnail size and the URL from which the thumbnail image will be generated as query params. It generates the thumbnail dynamically in memory and returns it back as the HTTP response.
+As part of this solution, we implemented a basic HTTP image processing server in go (you can check the source code [here](https://github.com/zuripabon/img-proxy-thumbnails)) which exposes a simple API Rest with a GET /thumbnail endpoint. The client code may request this endpoint by passing in the thumbnail size and the URL from which the thumbnail image will be generated as query params. It generates the thumbnail dynamically in memory and returns it back as the HTTP response.
 
 This solution gives us more control and enables us to customize and adapt it better to our own needs. For instance, we could support formats which are not commonly supported like HEIC images. However, this is not actually our market target and making it a robust solution would demand to spend more resources in order to efficiently maintain the project. 
 
@@ -57,7 +57,7 @@ Besides that, the server is implemented in go which is more suitable for this so
 
 ## Amazon Serverless Image Handler
 
-An alternative to using our own image processing server solution would be to use the Serverless Image Handler (https://aws.amazon.com/solutions/serverless-image-handler/) solution. The working principle is similar to the image processing server in the sense it generates a thumbnail image on demand, but it is an end to end solution ready for production.
+An alternative to using our own image processing server solution would be to use the [Serverless Image Handler ](https://aws.amazon.com/solutions/serverless-image-handler/) solution. The working principle is similar to the image processing server in the sense it generates a thumbnail image on demand, but it is an end to end solution ready for production.
 
 From our client code, all we have to do is to generate a CloudFront URL based on the S3 bucket and the picture key we used when uploading the resource and then rendering it from an img HTML tag. 
 
@@ -73,14 +73,12 @@ The only critical one so far is supporting HEIC format. Despite Serverless Image
 
 ## ImgProxy Server
 
-Finally, an as alternative to Amazon Serverless Image Handler, we could use the open source imgproxy server (https://evilmartians.com/chronicles/introducing-imgproxy), which is a well tested, secure and fast solution but would have the same issues regarding customization and a serverless solution as the one provided by AWS is probably far more reliable and cheap than dedicated servers. 
+Finally, an as alternative to Amazon Serverless Image Handler, we could use the open source [imgproxy server](https://evilmartians.com/chronicles/introducing-imgproxy), which is a well tested, secure and fast solution but would have the same issues regarding customization and a serverless solution as the one provided by AWS is probably far more reliable and cheap than dedicated servers. 
 
-The good news concerning the customization issues is that both Amazon Serverless Image Handler and the open source Imgproxy server are based on libvips and as long as version 8.8.0 is released (https://github.com/libvips/libvips/milestone/6), both of them will support heic/heif format (https://github.com/lovell/sharp/issues/1105, https://github.com/imgproxy/imgproxy/issues/140) which is not currently supported natively by browsers (https://caniuse.com/#feat=heif)  
+The good news concerning the customization issues is that both Amazon Serverless Image Handler and the open source Imgproxy server are based on libvips and as long as version 8.8.0 is [released](https://github.com/libvips/libvips/milestone/6), both of them will support heic/heif format which is not currently supported natively by [browsers](https://caniuse.com/#feat=heif)  
 
-As a final conclusion, I would discourage using our own custom thumbnail image processing server implementation and would recommend instead to use Amazon Serverless Image Handler solution for a long term better solution, which is easier to maintain and to scale up, which also provides a more reliable architecture and integrates out of the box with S3 and CloudFront, falling back to the open source imgproxy server (https://github.com/imgproxy/imgproxy) or to our own image processing server implementation in case we face some unexpected technical or non-technical limitations with Amazon Serverless Image Handler solution. 
+As a final conclusion, I would discourage using our own custom thumbnail image processing server implementation and would recommend instead to use Amazon Serverless Image Handler solution for a long term better solution, which is easier to maintain and to scale up, which also provides a more reliable architecture and integrates out of the box with S3 and CloudFront, falling back to the open source [imgproxy server](https://github.com/imgproxy/imgproxy) or to our own image processing server implementation in case we face some unexpected technical or non-technical limitations with Amazon Serverless Image Handler solution. 
 
-Additional Notes:
+## Additional Notes
 
-most of our pictures will be displayed at a size of 288x264 pixels in the landing cards as specified in design.
-
-Amazon Serverless Image Handler estimated costs for 1 million images processed, 15 GB storage and 50 GB data transfer is about $13 (https://docs.aws.amazon.com/solutions/latest/serverless-image-handler/overview.html)
+Most of our pictures will be displayed at a size of 288x264 pixels in the landing cards as specified in design. Amazon Serverless Image Handler estimated costs for 1 million images processed, 15 GB storage and 50 GB data transfer is about [$13](https://docs.aws.amazon.com/solutions/latest/serverless-image-handler/overview.html)
