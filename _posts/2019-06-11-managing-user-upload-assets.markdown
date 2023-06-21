@@ -23,12 +23,12 @@ Benchmark scenario: Uploading 5 pictures (JPG - 80K average size), Iterations: 1
 
 Metrics used are the maximum (worst) from 10 iterations, so this reflects the worst case scenario for the given iterations.
 
-Case A. uploading and creating picture entity in storage service: 23041.77294921875ms/ 23.04177294921875s
-Case B. uploading to S3 and creating picture entity in storage service: 3692.77197265625ms/ 3.69277197265625s
-Case C. uploading to S3 with no storage service interaction: 1220.4970703125ms/ 1.2204970703125s
+* Case A. uploading and creating picture entity in storage service: **23s**
+* Case B. uploading to S3 and creating picture entity in storage service: **3s**
+* Case C. uploading to S3 with no storage service interaction: **1.22s**
 
-diff (A-B) = 19349.0009765625ms/19.3490009765625 - B is aprox. x6 times faster than A, about 16.02% A time
-diff (A-C) = 21821.27587890625ms/21.82127587890625s - C is aprox. x18 times faster than A, about 5.3% A time
+* diff (A-B) = 19349.0009765625ms/19.3490009765625 - **B is aprox. x6 times faster than A, about 16.02% A time**
+* diff (A-C) = 21821.27587890625ms/21.82127587890625s - **C is aprox. x18 times faster than A, about 5.3% A time**
 
 Case A is our current implementation and B is the solution we migrated to. The C scenario could be improved further by enabling the S3 accelerated transfer service, but the bottleneck is on the backend HTTP requests.
 
@@ -44,7 +44,7 @@ Regardless of using CloudFront or not, most of our resources are pictures, so it
 
 Instead of processing and resizing images into all necessary sizes as part of the uploading process or as part of a background job, we made the choice to generate thumbnails dynamically on the fly due to the several advantages it provides like higher flexibility (if a redesign requires it, we can add new dimensions and increase/decrease resolution on the fly), reduced storage costs or resilience to failures (if the thumbnail generation fails, we can recover by issuing a new request to the resource). Below we explore different solutions to generate thumbnail pictures on demand. 
 
-Custom Image Processing Server 
+## Custom Image Processing Server 
 
 The first solution is to use a HTTP image processing server as a micro-service that exposes an endpoint to generate thumbnails images on demand. It receives the original image URL and different options to specify the size and other possible image transformations.
 
@@ -55,7 +55,7 @@ This solution gives us more control and enables us to customize and adapt it bet
 Implementing advanced features such as caching, error recovery or security (picture bombs) are time-consuming and require dedicated team effort to accomplish it. 
 Besides that, the server is implemented in go which is more suitable for this sort of computation intense tasks but will require a context switch for many developers who are used to work with other languages as node.js meaning there is a learning curve process for the team to adapt to in order to be able to contribute to the project.
 
-Amazon Serverless Image Handler
+## Amazon Serverless Image Handler
 
 An alternative to using our own image processing server solution would be to use the Serverless Image Handler (https://aws.amazon.com/solutions/serverless-image-handler/) solution. The working principle is similar to the image processing server in the sense it generates a thumbnail image on demand, but it is an end to end solution ready for production.
 
@@ -71,12 +71,11 @@ This is a solution we can use across all the dev teams in the company as it auto
 
 The only critical one so far is supporting HEIC format. Despite Serverless Image Handler accepts a rich variety of formats as png, jpg, tiff, web, among others, heic/heif is not included. Note we could also need to implement some removal policy for thumbnails pictures which are no longer requested
 
-ImgProxy Server
+## ImgProxy Server
 
 Finally, an as alternative to Amazon Serverless Image Handler, we could use the open source imgproxy server (https://evilmartians.com/chronicles/introducing-imgproxy), which is a well tested, secure and fast solution but would have the same issues regarding customization and a serverless solution as the one provided by AWS is probably far more reliable and cheap than dedicated servers. 
 
 The good news concerning the customization issues is that both Amazon Serverless Image Handler and the open source Imgproxy server are based on libvips and as long as version 8.8.0 is released (https://github.com/libvips/libvips/milestone/6), both of them will support heic/heif format (https://github.com/lovell/sharp/issues/1105, https://github.com/imgproxy/imgproxy/issues/140) which is not currently supported natively by browsers (https://caniuse.com/#feat=heif)  
-
 
 As a final conclusion, I would discourage using our own custom thumbnail image processing server implementation and would recommend instead to use Amazon Serverless Image Handler solution for a long term better solution, which is easier to maintain and to scale up, which also provides a more reliable architecture and integrates out of the box with S3 and CloudFront, falling back to the open source imgproxy server (https://github.com/imgproxy/imgproxy) or to our own image processing server implementation in case we face some unexpected technical or non-technical limitations with Amazon Serverless Image Handler solution. 
 
