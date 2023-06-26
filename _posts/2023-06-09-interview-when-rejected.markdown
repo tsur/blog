@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Feedback on improving your job interview process"
-date:   2023-06-09
+date:   2022-06-09
 category: Tech
 author: Zuri Pabón
 ---
 
-Recently, I had the opportunity to participate in the selection process for a senior full-stack software engineer position at a company dedicated to the education sector (for privacy reasons, I will omit the company name). But before I share my experience at the company´s selection process, I'd like to provide some context about my situation before and during the selection process.
+Recently, I had the opportunity to participate and provide feedback on a selection process for a senior full-stack software engineer position at a company dedicated to the education sector (for privacy reasons, I will omit the company name). But before I share my experience at the company´s selection process, I'd like to provide some context about my situation before and during the selection process.
 
-I have been working in software development for approximately 10 years. It is a job that I enjoy and love, as it is not only my livelihood but also a great hobby. Over the past 4 years, I have worked for a company where I have grown significantly both professionally and personally, acquiring and developing skills that I wasn't even aware of in my previous career.
+I have been working in software development for approximately 10 years. It is a job that I enjoy and love, as it is not only my livelihood but also my main hobby. Over the past 4 years, I have worked for a company where I have grown significantly both professionally and personally, acquiring and developing skills that I wasn't even aware of in my previous career.
 
 With a focus on good practices in domain-driven design and microservices, starting from a distributed monolith, transitioning to micro-liths, reaching the over-engineering stage of microservices, and going back to a more monolithic approach, I believe I have been able to experience and validate many facets and variations in an attempt to adapt to the constant growth and downsizing of available resources within a startup undergoing significant structural changes. I have learned from numerous challenges along the way. 
 
@@ -16,7 +16,7 @@ This wealth of experience in solution design, observability, service metrics, te
 
 The reasons for applying to a new company were twofold. The field of education is familiar to me and holds a special place in my heart. I wanted to learn how others solve similar problems and gain insights from contrasting similar problem-solution spaces. These main reasons were accompanied by several minor factors on a lower personal value scale, such as a slight salary increase and the opportunity to validate my skills after more than 4 years without any contact with other job selection processes.
 
-So, this is the context, and I would like to share my experience, both the positive aspects and the negative ones. It was a lengthy process consisting of a total of 5 interviews. Finally, in the last interview, I was rejected, and the reason given was that of ineffective communication.
+So, this is the context, and I would like to share my experience, both the positive aspects and the negative ones. It was a lengthy process consisting of a total of 5 interviews.
 
 The process began with an initial telephone interview, where I was asked about my previous professional experience, my reasons for applying to the position, and my salary expectations. A few days later, the second interview followed, where I was asked the exact same questions, but this time by someone from the internal engineering team instead of the HR representative.
 
