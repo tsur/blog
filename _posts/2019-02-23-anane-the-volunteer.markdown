@@ -45,7 +45,7 @@ My world was one of many others to be colonized. Many realities stand above ours
 
 In our higher reality, it is often said that the ultimate purpose of existence for beings and their thought energies is nothing more than their own expansion, and that is precisely what these lower realities offer us.
 
-Our nearest lower reality was already in an advanced state of colonization. So Anane would adapt quickly to it. The volunteers never fully descend into a lower reality until their thought energies reach the level of maturity and necessary adaptation to project themselves into the mold that contains them within the lower reality. We called this mold the body.
+Our nearest lower reality was already in an advanced state of colonization. So Anane would adapt quickly to it. The volunteers never fully descend into a lower reality until their thought energies reach the level of maturity and necessary adaptation to project themselves into the mold that contains them within the lower reality. We called this mold the lower body.
 
 To facilitate the projection of our thought energies into the molds, the ancient volunteers separated the thought energies into opposing polarities that would attract each other based on their frequency attributes, and when joined tight together, would form the structure of a new mold to hold other similar thought energies. The moment of bonding is the most astounding, an extremely enriching and pleasurable experience, but also filled with unpredictable risks.
 
@@ -57,14 +57,13 @@ It was a painful lesson for the ancient volunteers to learn. They were unaware o
 
 Those volunteers who managed to maintain and preserve their less fragmented memories took care of their fellow volunteers who completely lost their memories. They tried to fill in the gaps in their memories, and thus, the belief emerged for the first time because they had no way to validate the information. When the affected volunteers returned to their original reality, gradually, they regained their memories as consciousness regenerated them in the higher realities, as if it were a wound slowly healing.
 
-Despite the advanced state of colonization in our lower reality, its density literally crushed our thought energies, causing them to fragment over time, like a beautiful mirror slowly wearing down and cracking into hundreds of thousands of small pieces. So, at regular intervals, when our thought energies fragmented and broke apart, we had to return home to recover. Our thought energies were highly calibrated before our descent to return back home after a critic threshold was reached. And we called this process death.
+Despite the advanced state of colonization in our lower reality, its density literally crushed our thought energies, causing them to fragment over time, like a beautiful mirror slowly wearing down and cracking into hundreds of thousands of small pieces. So, at regular intervals, when our thought energies fragmented and broke apart, we had to return home to recover. Our thought energies were highly calibrated before our descent to return back home after a critic threshold was reached. And we called this threshold the death.
 
 While I was still thinking on this all. Anane fixed his gaze on me, deeply intrigued, as if trying to find the key to a hidden treasure and asked. "Shall I descend after we return back from the promotion ceremony, Mother?"
 
 "That will depend on how good or bad you perform at the promotion ceremony final test. And talking about the ceremony, it is time to depart. I firmly trust on your good performance and never forget I will be there on your side to assist you, my child"
 
 Anane: "Mother, please, grant me with the privilege of taking you with me to the ceremony hall"
-
 
 It is common for us to travel using technological means through portals or spaceships. However, it is a tradition for the ceremony day to let volunteer candidates travel using a extremely dangerous and risky technique. This is one of the hardest and most important technique all volunteers have to dominate before the time to descend comes for them
 
@@ -74,7 +73,7 @@ There are two different ways to travel. In one, you move towards the destination
 
 At that moment, Anane fixed his eyes on mine, large and of a deep violet-blue color, as if by instinctive reflection, and join our hands together. Anane fully concentrated and ordered its thoughts energies to get excited to the destination frequency. 
 
-A few moments later, while we were still staring directly into each other's eyes, the splendid audience hall of the promotion ceremony in alpha-52 began to take shape in Anane's large and deep blue eyes, and everything around us seemed to merge into a soft and welcoming pale light.
+A few moments later, while we were still staring directly into each other's eyes, the splendid audience hall of the promotion ceremony in alpha-52 began to take shape in Anane's large and deep violet-blue eyes, and everything around us seemed to merge into a soft and welcoming pale light.
 
 An instant later, we were in the audience hall of Alpha-52; the destination had come to us.
 
