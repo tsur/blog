@@ -25,8 +25,7 @@ Here some current examples of different formats we had in different projects at 
 
 Next we dive into the advantages/disadvantages I have discovered when using `Intl.DateTimeFormat`
 
-
-## The good parts
+## The advantages
 
 Adopting `Intl.DateTimeFormat` we could get rid of all those different datetime formats and delegate that responsability to the presentation/rendering layer. Some of the advantages we could get from it:
 
@@ -49,6 +48,6 @@ There are important challenges to look at when adoptin this approach. Consider t
 
 * Server-side Rendering Challenges: When implementing server-side rendering, using `Intl.DateTimeFormat` can be more complex. Server environments may lack full support for the Internationalization API, requiring additional considerations and potential workarounds to ensure consistent date formatting across server-rendered and client-rendered content.
 
-For example, `Intl.DateTimeFormat` is available in NodeJS but may be fully or partially supported depending on the completeness of the ICU data installed on the system. It would required to review it on the docker image and some additional logic would be required to avoid rendering different date formats in the server default locale and in the client’s one. Rendering at server time based on the `Accept-Language` HTTP header instead of the server default locale to make sure both server and client renders the same would be required to serve a proper user experience.
+        For example, `Intl.DateTimeFormat` is available in NodeJS but may be fully or partially supported depending on the completeness of the ICU data installed on the system. It would required to review it on the docker image and some additional logic would be required to avoid rendering different date formats in the server default locale and in the client’s one. Rendering at server time based on the `Accept-Language` HTTP header instead of the server default locale to make sure both server and client renders the same would be required to serve a proper user experience.
 
 * How to adopt the same behavior in other platforms lacking `Int.DateTimeFormat` support, for example in back-end services or emails. For backend, an example could be using Carbon library along with the user locale, but it might not be the same format as `Intl.DateTimeFormat`
