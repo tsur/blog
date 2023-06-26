@@ -25,7 +25,7 @@ If this was some kind of Isekai story, and the patience ability were a meta, I w
 
 And yet, there she was every day, so close and yet so far from me. She used to sit very close to me in the office, within the reach of a gentle and slight movement of my eyes. Challenging my unwavering patience. Like a hurricane that slowly grows and ends up sweeping everything in its path. Like a hurricane that ravaged my emotions and that I could only watch from a distance, helpless and unarmed. 
 
-She was the kind of woman with whom I had always wanted to start a family and share a lifetime of dedication and mutual commitment.vI never longed for that fleeting and cheesy kind of relationship where you only find a glycemic overload of romance, and then there's nothing left. 
+She was the kind of woman with whom I had always wanted to start a family and share a lifetime of dedication and mutual commitment. I never longed for that fleeting and cheesy kind of relationship where you only find a glycemic overload of romance, and then there's nothing left. 
 
 But I was also aware that romance, in a balanced proportion, also occupied an important space within a healthy and lasting relationship. And that question that fluttered in my thoughts was anything but romantic...
 
@@ -65,7 +65,7 @@ Valeria: "Woala! Uuwuuu! How are you?? It's been a while since we last talked! P
 
 In addition, she knew where I was from. Although in any other context, this wouldn't have meant anything, it did matter a lot to me. How could she know where I was from? The hometown district where I was born was very small and unknown, and I didn't recall ever mentioning this to her. I usually mentioned the capital, not the district.
 
-So she must have taken an interest in this information on her own. Maybe she asked other coworkers about me to obtain this information. Or perhaps she simply had access to my personal data. After all, she had an important role  within the company, and she was also present during my selection process. So she could easily have access to this information.But she was also asking about Pedro. My emotions quickly allowed a new but unexpected guest, melancholy, to enter and access my private room. 
+So she must have taken an interest in this information on her own. Maybe she asked other coworkers about me to obtain this information. Or perhaps she simply had access to my personal data. After all, she had an important role  within the company, and she was also present during my selection process. So she could easily have access to this information. But she was also asking about Pedro. My emotions quickly allowed a new but unexpected guest, melancholy, to enter and access my private room. 
 
 In my small hometown, there were plenty of Juans, Miguels, and Antonios, but not many Pedros. I only knew two people called Pedro in my hometown, one of whom was significantly older than me and must be well into his years. Pedro was same age as me and Valeria was too same age. Without a doubt, it had to be the same Pedro I knew from childhood.
 
@@ -295,7 +295,7 @@ Rita: "Ok... come here. You have nothing to worry about. Just sit down and rest 
 
 "What? hazelnuts...? What are you talking about?"
 
-Suddenly, I remembered the dinner at the bar with Alberto and Valeria. I remembered coming home after dinner and eating a few hazelnuts before going bed. But I also remembered more things. Images started appearing in my mind, blurry ones, and between them, a document with something written that I couldn't fully understand.
+Suddenly, I remembered the dinner at the bar with Alberto and Valeria. I remembered eating some hazelnuts with them and coming back home afterwards. But I also remembered more things. Images started appearing in my mind, blurry ones, and between them, a document with something written that I couldn't fully understand.
 
 "... And that night ..., after eating the hazelnuts, proceed to sleep, and during the sleep time ... the present prenatal life exchange contract will take effect ..."
 
@@ -321,7 +321,7 @@ Rita: "Yes, yes, but it's what we agreed upon in our prenatal life contract, don
 
 Rita: "No need for that, as I said your physical body is not completely dead. We just agreed on this. You are leaving now, and I'm coming. It is my turn. Your family will be ok, they won't notice anything, hopefully"
 
-At that moment, I instinctively looked towards the opposite direction I had walked, only to gaze in astonishment at my lifeless body lying on a hospital bed, connected to various hospital machines. And, suddenly, I remembered better.
+At that moment, I instinctively looked towards the opposite direction I had walked, only to gaze in astonishment at my almost lifeless body lying on a hospital bed, connected to various hospital machines. And, suddenly, I remembered better.
 
 "Holy shit. Fuck. The fucking life contract!"
 
