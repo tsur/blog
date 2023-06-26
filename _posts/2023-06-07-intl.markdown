@@ -24,7 +24,7 @@ Here some current examples of different formats we had in different projects at 
 * DD-MM-YYYY
 
 
-# The good parts
+## The good parts
 
 Adopting `Intl.DateTimeFormat` we could get rid of all those different datetime formats and delegate that responsability to the presentation/rendering layer. Some of the advantages we could get from it:
 
@@ -36,7 +36,7 @@ Adopting `Intl.DateTimeFormat` we could get rid of all those different datetime 
 
 * Future Compatibility: `Intl.DateTimeFormat` is widely supported in modern browsers, ensuring compatibility with a majority of user environments. Relying on a native JavaScript API like `Intl.DateTimeFormat` ensures future compatibility and reduces the risk of breaking changes or deprecated libraries.
 
-# The challenges
+## The challenges
 
 There are important challenges to look at when adoptin this approach. Consider them carefully before going forward as they might cause a negative impact on your organization. Make sure your team agree on this drawbacks and have some fallback/backup solutions as you go with it
 
