@@ -23,7 +23,7 @@ Ask them to write down some examples of different type of meals in post-its with
 
 After the exercise is done. I show them my own nutrition pyramid and take the opportunity to deep dive on it until I get to something like this
 
-![nutrition pyramid](/assets/food-pyramid.png)
+![nutrition pyramid](https://zuripabon.es/blog/assets/food-pyramid.png)
 
 This goes from just steroids, tablets, all kind of non real-food additives to the most high quaility food. We spend some time discussing about the different levels with different examples and then it is the time when I start conencitng and teaching them about sexuality as something similar to food and nutrition. Sexuality is something we need in the similar way than we need to eat. This is a great opportunity to teach them about the risks of an unhealthy sexuality just as like an unhealthy nutrition
 
@@ -33,7 +33,7 @@ We therefore repeat the same exercise we did about food but this time about sexu
 
 After some minutes we all have shared our own sexuality pyramid and I present them with mine's one:
 
-![sexuality pyramid](/assets/sexuality-pyramid.png)
+![sexuality pyramid](https://zuripabon.es/blog/assets/sexuality-pyramid.png)
 
 Let's see what each level means from bottom to top:
 
@@ -52,5 +52,5 @@ I think overall this is a good and funny exercise, but very important to educate
 
 Hope this is useful for you too!
 
-![comparison nutrition-sexuality pyramid](/assets/comparison-food-sexuality)
+![comparison nutrition-sexuality pyramid](https://zuripabon.es/blog/assets/comparison-food-sexuality.png)
 
