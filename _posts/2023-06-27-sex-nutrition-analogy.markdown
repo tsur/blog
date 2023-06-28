@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Analogy about sexual education"
+title:  "How to teach teenagers about sexuality"
 category: Other
 author: Zuri Pabón
 ---
