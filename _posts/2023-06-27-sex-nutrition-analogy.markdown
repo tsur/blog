@@ -16,7 +16,7 @@ As a father, mother, or a close relative, this is not always an easy topic to ta
 
 # Building the nutrition pyramid exercise
 
-I first starting talking about food and nutrition as this is a quite familiar, informal and easy to understand topic to talk with teenagers, and... it is also a good opportunity to teach them about nutrition!
+I first start talking about food and nutrition as this is a quite familiar, informal and easy to understand topic to talk with teenagers, and... it is also a good opportunity to teach them about nutrition!
 
 The exercise is about building a nutrition pyramid. What kind of food do you think is the most unhealthy one and what the most healthy one? What is the food you like the most and you hate the most? Or just rate this foods according to how healthy do you think it is ...You can think about different variants of the same exercise, just let your imagination goes and adapt to what you think is best for your kids according to it ages and personalities.
 
@@ -36,16 +36,16 @@ After some minutes we all have shared our own sexuality pyramid and I present th
 
 [![sexuality pyramid](https://zuripabon.es/blog/assets/sexuality-pyramid.png)](https://zuripabon.es/blog/assets/sexuality-pyramid.png)
 
-Let's see what each level means from bottom to top:
+i will not cover in details the reasons but let's see briefly what each level means from bottom to top:
 
-* Level 0 - 
-* Level 1 -
-* Level 2 -
-* Level 3 -
-* Level 4 -
-* Level 5 -
-* Level 6 -
-* Level 7 - 
+* Level 0 - This is the most harmful, unhealthy level which in my opinion corresponds to explicit porn in all its different variants. As in nutrition, this would correspon to whatever, steroids, additives, and all kind of "non-real" food, inclusing also ultra processed food since it comes already "processed" and you have nothing to do but to consume it. The quality of nutrients and the quality of the sexuality here is extremely low and dangerous in the long term because you will miss the "sexuality" nutrients and your sexual experience will be quite poor and limited
+* Level 1 - Next in the rating is actually not developing your sexuality at all like in the case of making a everlasting vow of chastity. In the same way as not eating at all will eventually get you to death, this will completely kill your sexuality which is a very important aspect of yourself affecting other areas of your personal and spiritual development. It could be ok for some time to stay in this pyramid level just like sometime we decide to not eat during some specific period of time to recover from a disease or just as a fasting practice which has really good beenfits for the body when done properly
+* Level 2 - In the next level of our sexuality pyramid I include the "soft, non-explicit" porn. This is for example a person behaving in a sensual way, undressing, but without explicit intercourse scenes. It could be compared as to ultra processed and processed food in the nutrition pyramid. In this level you start interacting and developing your sexuality with your imagination and starts incorporating sutile creative energies, but just during a small part as the reaming is basically just "consuming", as if processed food.
+* Level 3 - This level correspond to the physical intercourse between two people driven by pure passion and desire without anything else. No love, no emotions, nothing else than pure physical attraction desire. This is very similar to the previous one, but here the level of integration, interaction, imaginative, creative exchange of healthy thoughts and emotions is higher than in the previous level as the physical interaction and efforts required are also higher. It could be understood as the transition from ultra-processed food to processed food.
+* Level 4 - The practice of healthy masturbation with no elements incorporated from the previous levels. Here the level of emotions, self-awareness, imaginative, creative processes starts taking relevance. We could compare this as non processed food like nutritive home-made food, but the quality and the amount of this nutrients is still very limited
+* Level 5 - Intercourse on the base of a healthy relationship with your partner. There is a strong commitment on both sides to keep a healthy relationship, but the aspects driving the sexual practices are mainly the same as in the previus two levels, a cocktail of physical attraction and positive emotions. It can be considered as the mix of the two previous levels. Compared to nutrition, see it as partially home-made food, partially processed food. Still some of sugar and other posions in the food.
+* Level 6 - The evolution of the previous level 5. In this step the relationship is not driven by just physical attraction or efimere emotions, but includes a deep, profound integration process which starts emanating from the acceptation of the good and the bads, trying to understand every aspect and taking the most of it. At times, it feels like they are not anymore two different people but one. This would be the end of processed food, with a high awareness of it means a healthy and a unhealthy relationship.
+* Level 7 - This is possible beyond of 95% human beings possibilities and possibly just something going around on my own thoughts but for me this level would be the most high quality one. The difference from the previous one is the full integration, in all aspects, physically, emotionally, mentally but also spiritually. They become one and same being. As in nuclear fusion, when two atomic nuclei fuse together and release an immense torrent of creative, healing, powerful energy. They are no longer two, they are one. This is also the best level and moment to bring children into the world, because they will absorb and manifest later this beautiful torrent of infinite energy to the world.
 
 # Conclusion
 
