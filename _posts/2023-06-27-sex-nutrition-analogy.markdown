@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to teach teenagers about sexuality"
+title:  "How to teach teenagers and young adults about sexuality"
 category: Other
 author: Zuri Pabón
 ---
