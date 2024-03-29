@@ -5,7 +5,7 @@ category: Light Novels
 author: Zuri Pabón
 ---
 
-All rights reserved. © 2023. Zuri Pabón (reach.zuripabon@gmail.com). "Anane the volunteer" and "Anane The Volunteer: Embracing the Unknown" is a registered trademark of Zuri Pabón. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+All rights reserved. © 2024. Zuri Pabón (reach.zuripabon@gmail.com). "Anane the volunteer" and "Anane The Volunteer: Embracing the Unknown" is a registered trademark of Zuri Pabón. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 ### Prologue
 
@@ -17,25 +17,25 @@ The atmosphere in the room was warm and subdued, briefly illuminated by a violet
 
 "Do we already know the destination?" Anane asked, revealing her slightly crooked teeth.
 
-This time, the promotion ceremony for new volunteers was taking place at alpha-52, the brightest and most beautiful star in our galactic sector.
+This time, the promotion ceremony for new volunteers was taking place at alpha-52, the brightest and most beautiful star in our galactic sector and home of the formidable alpha draconis guardians.
 
 Anane had served me well. He was a good boy, slim in appearance, and with a remarkable peaceful energy. Among his ancestors were great artists and some renowned scientists who had contributed significant achievements to our old and advanced holographic society. Although Anane did not excel in any specific area of knowledge, he had achieved notable progress and development in those fields where his most notable ancestors had rarely achieved better results.
 
 He had just completed his first service cycle, that is his first major service was coming to an end and soon, I would no longer be his first mother, and Anane would cease to be my child. I was lately feeling as if I could have done more to assist Anane and that feeling was growing deep inside me.
 
-"Pay attention, Anane. Today is the day of your promotion. You will become a new volunteer, and from that moment on, you will no longer be my child. Before that happens later, I would like you to keep this with yourself. It has been a ancient family gem. One of the pieces my family lineage has kept for ages and now also yours. I'm no longer a volunteer, but you can still find the missing pieces and bring back to life this ancient volunteer. Go keep it safe, and get ready for the promotion ceremony."
+"Listen to me, Anane. Today is the day of your promotion. You will finally become a new volunteer, and from that moment on, you know well I will no longer be your mother. Before that happens, I would like you to keep this with yourself. It has been a ancient family gem. One of the pieces my family lineage has kept for ages and now also yours. I'm no longer a volunteer, but you can still find the missing pieces and bring back to life this ancient volunteer. Go keep it safe, and get ready for the promotion ceremony."
 
 I had a special affection for this gem. It was the first one I found in the colonization operations when I was younger. But despite all my efforts, I could never communicate with it. Its thought energies remained very dense, with almost no movement, and the only known way to bring them back to life was through smelting.
 
-When gems were melted, their thought energies became lighter, escaping the density and taking on new forms. However, this was an especially painful and traumatic process for the thought energies. And without other gems to complete the missing thought energies, smelting would yield no results, only bringing more pain and suffering. So we could only resort to smelting when we had numerous gems of the same nature. And I had only one. But this time, who knows, perhaps Anane would have better luck than me.
+When gems were melted, their thought energies became lighter, escaping the density and taking on new forms. However, this was an especially painful and traumatic process for the thought energies. And without other gems to complete the missing parts, smelting would yield no results, only bringing more pain and suffering. So we could only resort to smelting when we had numerous gems of the same nature. And I had only one. But this time, who knows, perhaps Anane would have better luck than me.
 
 Anane: “Thank you Mother. My beginning and my end. You can trust I shall keep and protect this gem to the end of my days and shall serve this gem with love and dedication or shall pass the torch to those who come after me if I fail. This gem will not be forgotten. If I may, I would like to name this gem same as yours, Mother”
 
 I nodded my head in approval to Anane's request while I looked again at the now reddish sky, stained like blood, and remembered my first mother. She had a fierce and imposing appearance, but her energy was gentle and calm. Her energy emitted vibrant and penetrating colors, and her rhythm was smooth and unhurried. One can never forget the first mother; its imprint and strength are engraved in your soul forever.
 
-My thoughts about Zeniza, my first mother, took my back to the events that marked the beginning of the colonies of the ancient volunteers, how they gradually descended into the lower realities, eons ago. These ancient volunteers were the founders of new worlds, bringing light where there was only darkness, confusion, and disorder.
+My thoughts about Zenitza, my first mother, took my back to the events that marked the beginning of the colonies of the ancient volunteers, how they gradually descended into the lower realities, eons ago. These ancient volunteers were the founders of new worlds, bringing light where there was only darkness, confusion, and disorder.
 
-The risks they took were immense, and many of them perished in service to knowledge, wisdom, and the expansion of everything, our beloved and eternal singular principle. They were absorbed by those uncertain realities, just as my one-piece deep black obsidian uniform absorbed the beautiful and warm colors of that blood-stained morning I was looking at through the window — colors that timidly and innocently dared to touch the fine and delicate mesh of deep black thread fabric, never to escape it again.
+The risks they took were immense, and many of them perished in service to knowledge, wisdom, and the expansion our beloved and everlasting singular principle. They were absorbed by those uncertain realities, just as my one-piece deep black obsidian uniform absorbed the beautiful and warm colors of that blood-stained morning I was looking at through the window — colors that timidly and innocently dared to touch the fine and delicate mesh of deep black thread fabric, never to escape it again.
 
 The volunteers departed in large groups to those unknown lower realities. Many of them were lost forever in the depths of those unknown realities. Even to these days, many ancient volunteers are still lost, emitting a faint pulse, in perpetual hibernation, awaiting the moment when other volunteers will reach them wherever they may be found and awaken them from their long and harsh slumber. 
 
