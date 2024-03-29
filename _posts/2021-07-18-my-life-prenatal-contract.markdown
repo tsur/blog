@@ -5,9 +5,9 @@ category: Light Novels
 author: Zuri Pabón
 ---
 
-All rights reserved. © 2023. Zuri Pabón (reach.zuripabon@gmail.com). "My Prenatal Life Contract" is a registered trademark of Zuri Pabón. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+All rights reserved. © 2024. Zuri Pabón (reach.zuripabon@gmail.com). "My Prenatal Life Contract" is a registered trademark of Zuri Pabón. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
-A young man, deeply in love with Valeria, his office mate, dies without being able to confess his love to her. Upon his death, he discovers all the details of his short life on Earth were agreed in the prenatal life contract. And now, someone else is legally in possession of his body. After offering something in exchange, he is allowed to extend his contract for a little longer, but he must accept certain conditions. Determined to finish what he started, he accepts the conditions!
+A young man, deeply in love with Valeria, his office mate, dies without being able to confess his love to her. Upon his death, he discovers all the details about his short life on Earth were agreed in the prenatal life contract, and now, someone else is legally in possession of his body. After offering something in exchange, he is allowed to extend his contract for a little longer, but he must accept a bunch of new contract conditions. Determined to finish what he started, he accepts the conditions!
 
 ### Chapter 1.
 
